@@ -6,3 +6,5 @@ SPA（Single Page Application）,就是我们通常说的单页面应用程序, 
 当然也有方法可以来解决这些问题，可以选择使用 SSR（Server-Side Rendering）来增强 SPA 的功能。这样就可以在服务器端生成 HTML，然后在客户端渲染 JavaScript，从而实现更好的性能和 SEO。
 
 
+
+
