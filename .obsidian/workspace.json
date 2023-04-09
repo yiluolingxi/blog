@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/interview/vue/SPA.md",
+                "file": "docs/interview/vue/Vue 中 nextTick 的实现原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,29 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d241f13d8fe6a45",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/interview/vue/SPA.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "bcae709bb1c8fd4a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/interview/vue/SPA.md",
+                "file": "docs/interview/vue/Vue 中 nextTick 的实现原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/interview/vue/SPA.md"
+                "file": "docs/interview/vue/Vue 中 nextTick 的实现原理.md"
               }
             }
           }
@@ -145,16 +128,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d241f13d8fe6a45",
+  "active": "6a5f8e22cd3b5d79",
   "lastOpenFiles": [
     "docs/interview/vue/Vue3 和 Vue2 代理的区别、优势.md",
+    "docs/interview/vue/Vue 中 nextTick 的实现原理.md",
+    "docs/interview/vue/SPA.md",
     "docs/assets/Pasted image 20230409163639.png",
     "docs/assets/Pasted image 20230409163603.png",
     "docs/assets/Pasted image 20230409163638.png",
     "docs/assets/Pasted image 20230409163533.png",
     "docs/assets/Pasted image 20230409163522.png",
-    "docs/interview/vue/Vue 中 nextTick 的实现原理.md",
-    "docs/interview/vue/SPA.md",
     "docs/interview/vue/0 - vue.md",
     "docs/assets/277790923f0cc9b36fb96ed9d40c209.png",
     "docs/unfiled/Cypress.md",
