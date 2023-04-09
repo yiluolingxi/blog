@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54af7b2a2d60b81c",
+        "id": "324d222043bd06f5",
         "type": "tabs",
         "children": [
           {
-            "id": "be8085ea28c459ee",
+            "id": "6a5f8e22cd3b5d79",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "be8085ea28c459ee",
+  "active": "e9b2ad56fb300a95",
   "lastOpenFiles": [
+    "docs/interview/vue/Vue3 和 Vue2 代理的区别、优势.md",
+    "docs/assets/Pasted image 20230409163639.png",
+    "docs/assets/Pasted image 20230409163603.png",
+    "docs/assets/Pasted image 20230409163638.png",
+    "docs/assets/Pasted image 20230409163533.png",
+    "docs/assets/Pasted image 20230409163522.png",
+    "docs/interview/vue/Vue 中 nextTick 的实现原理.md",
+    "docs/interview/vue/SPA.md",
+    "docs/interview/vue/0 - vue.md",
     "docs/assets/277790923f0cc9b36fb96ed9d40c209.png",
     "docs/unfiled/Cypress.md",
     "docs/unfiled/Generator 函数.md",
@@ -160,12 +169,7 @@
     "docs/assets/20230408173735.png",
     "docs/unfiled/ChatGPT 沟通技巧.md",
     "docs/unfiled/浏览器敲入 URL 过程.md",
-    "docs/assets/20230405140536.png",
-    "docs/interview/vue/Vue3 和 Vue2 代理的区别、优势.md",
-    "docs/assets/Pasted image 20230402192600.png",
-    "docs/interview/vue/Vue 中 nextTick 的实现原理.md",
     "_tmp_8524_a2f6f4c6270033e55013a4245c96f45d",
-    "docs/interview/vue/0 - vue.md",
     "docs/linux/45 - curl 发送请求.md",
     "docs/unfiled/认知与优质信息.md",
     "docs/unfiled/机器数、真值、原码、反码、补码.md",
@@ -173,7 +177,6 @@
     "docs/interview/vue",
     "docs/interview",
     "docs/unfiled/clientLeft、clientHeight、clientWidth、clientHeight等区别.md",
-    "docs/assets/4E887A2D-F4BB-489D-8250-4ECD23CA5A79.jpeg",
     "docs/vite.config.ts",
     "未命名.canvas",
     "docs/linux/0 - linux.md",
@@ -185,16 +188,12 @@
     "docker/11 - traefik 自动配置证书 - demo/nuxt/store/0 - store.md",
     "docker/11 - traefik 自动配置证书 - demo/nuxt/0 - nuxt.md",
     "index.md",
-    "linux/26 - 全局命令行工具 shebang.md",
     "linux/26 - 全局命令行工具 shebang -",
-    "assets/Pasted image 20230325220904.png",
     "docker/220829/10 - traefik 网关搭建 - demo/whoami/docker-compose.yml",
     "docker/220829/10 - traefik 网关搭建 - demo/log/traefik.log",
     "docker/220829/10 - traefik 网关搭建 - demo/log/traefik-access.json",
     "docker/220829/10 - traefik 网关搭建 - demo/traefik.toml",
     "docker/220829/10 - traefik 网关搭建 - demo/whoami",
-    "docker/220820/9 - 对象存储优化 - demo/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "docker/220820/9 - 对象存储优化 - demo/src/logo.svg",
     "得到.canvas"
   ]
 }
