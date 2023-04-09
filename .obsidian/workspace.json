@@ -129,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6a5f8e22cd3b5d79",
+  "active": "6d241f13d8fe6a45",
   "lastOpenFiles": [
     "docs/interview/vue/Vue3 和 Vue2 代理的区别、优势.md",
     "docs/assets/Pasted image 20230409163639.png",
