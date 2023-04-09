@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/unfiled/ChatGPT 沟通技巧.md",
+                "file": "docs/interview/vue/SPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/unfiled/ChatGPT 沟通技巧.md",
+                "file": "docs/interview/vue/SPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/unfiled/ChatGPT 沟通技巧.md",
+                "file": "docs/interview/vue/SPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/unfiled/ChatGPT 沟通技巧.md"
+                "file": "docs/interview/vue/SPA.md"
               }
             }
           }
