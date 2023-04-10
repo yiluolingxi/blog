@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/interview/vue/Vue 中 nextTick 的实现原理.md",
+                "file": "docs/demo/100.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/interview/vue/Vue 中 nextTick 的实现原理.md",
+                "file": "docs/demo/100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/interview/vue/Vue 中 nextTick 的实现原理.md"
+                "file": "docs/demo/100.md"
               }
             }
           }
@@ -130,10 +130,16 @@
   },
   "active": "6a5f8e22cd3b5d79",
   "lastOpenFiles": [
-    "docs/interview/vue/Vue3 和 Vue2 代理的区别、优势.md",
+    "docs/unfiled/vue/SPA.md",
+    "未命名 1",
+    "docs/Vue 3/未命名",
+    "未命名",
+    "docs/Vue 3/SPA.md",
+    "docs/Vue 3",
     "docs/interview/vue/Vue 中 nextTick 的实现原理.md",
-    "docs/interview/vue/SPA.md",
     "docs/assets/Pasted image 20230409163639.png",
+    "docs/interview/vue/Vue3 和 Vue2 代理的区别、优势.md",
+    "docs/interview/vue/SPA.md",
     "docs/assets/Pasted image 20230409163603.png",
     "docs/assets/Pasted image 20230409163638.png",
     "docs/assets/Pasted image 20230409163533.png",
@@ -168,14 +174,8 @@
     "docs/index.md",
     "vue/Vue.js 设计与实现/0 - Vue.js 设计与实现.md",
     "docker/11 - traefik 自动配置证书 - demo/nuxt/store/0 - store.md",
-    "docker/11 - traefik 自动配置证书 - demo/nuxt/0 - nuxt.md",
-    "index.md",
     "linux/26 - 全局命令行工具 shebang -",
     "docker/220829/10 - traefik 网关搭建 - demo/whoami/docker-compose.yml",
-    "docker/220829/10 - traefik 网关搭建 - demo/log/traefik.log",
-    "docker/220829/10 - traefik 网关搭建 - demo/log/traefik-access.json",
-    "docker/220829/10 - traefik 网关搭建 - demo/traefik.toml",
-    "docker/220829/10 - traefik 网关搭建 - demo/whoami",
     "得到.canvas"
   ]
 }
