@@ -11,8 +11,12 @@
             "id": "71ba34d538d55aba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Unfinished/Vue 3/SPA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Unfinished/Vue 3/SPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Unfinished/Vue 3/SPA.md"
+              }
             }
           },
           {
@@ -111,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Unfinished/Vue 3/SPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,30 +145,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "71ba34d538d55aba",
+  "active": "bcae709bb1c8fd4a",
   "lastOpenFiles": [
-    "docs/Vue 3/SPA.md",
-    "docs/Vue 3/0 - vue.md",
-    "docs/interview/vue/0 - vue.md",
+    "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
     "docs/Unfinished/Vue 3/SPA.md",
+    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
+    "docs/Knowledge/Vue 3/SPA.md",
+    "docs/Knowledge/Vue 3/0 - Vue 3.md",
+    "docs/interview/vue 3/0 - vue 3.md",
+    "docs/Knowledge",
+    "docs/Vue 3/未命名",
+    "docs/Vue 3/0 - vue.md",
     "docs/Unfinished/Vue 3/未命名.md",
     "README.md",
     "docs/Unfinished/未命名.md",
     "docs/Unfinished/Vue 3/SPA",
     "docs/Unfinished/Vue 3",
     "docs/Unfinished",
-    "docs/Vue 3/未命名",
     "未命名",
     "docs/webpack/未命名",
     "docs/demo/100.md",
     "docs/assets/images",
     "docs/unfiled/vue/SPA.md",
     "未命名 1",
-    "docs/Vue 3",
-    "docs/interview/vue/Vue 中 nextTick 的实现原理.md",
+    "docs/Knowledge/Vue 3",
     "docs/assets/Pasted image 20230409163639.png",
-    "docs/interview/vue/Vue3 和 Vue2 代理的区别、优势.md",
-    "docs/interview/vue/SPA.md",
+    "docs/interview/vue 3/SPA.md",
     "docs/assets/Pasted image 20230409163603.png",
     "docs/assets/Pasted image 20230409163638.png",
     "docs/assets/Pasted image 20230409163533.png",
@@ -177,15 +187,12 @@
     "docs/assets/20230408173735.png",
     "docs/unfiled/ChatGPT 沟通技巧.md",
     "docs/unfiled/浏览器敲入 URL 过程.md",
-    "_tmp_8524_a2f6f4c6270033e55013a4245c96f45d",
     "docs/linux/45 - curl 发送请求.md",
     "docs/unfiled/认知与优质信息.md",
     "docs/unfiled/机器数、真值、原码、反码、补码.md",
     "docs/unfiled/clientLeft、clientHeight、clientWidth、clientHeight等区别.md",
     "未命名.canvas",
     "docs/linux/0 - linux.md",
-    "docs/unfiled/问题集.md",
-    "docs/questions/0 - questions.md",
     "得到.canvas"
   ]
 }

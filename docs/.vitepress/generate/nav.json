@@ -3,8 +3,17 @@
     "text": "interview",
     "items": [
       {
-        "text": "vue",
-        "link": "\\interview\\vue\\0 - vue.md"
+        "text": "vue 3",
+        "link": "\\interview\\vue 3\\0 - vue 3.md"
+      }
+    ]
+  },
+  {
+    "text": "Knowledge",
+    "items": [
+      {
+        "text": "Vue 3",
+        "link": "\\Knowledge\\Vue 3\\0 - Vue 3.md"
       }
     ]
   },
@@ -16,9 +25,5 @@
         "link": "\\Unfinished\\Vue 3\\0 - Vue 3.md"
       }
     ]
-  },
-  {
-    "text": "Vue 3",
-    "link": "\\Vue 3\\0 - Vue 3.md"
   }
 ]
