@@ -18,5 +18,33 @@
         }
       ]
     }
+  ],
+  "/Unfinished/": [
+    {
+      "text": "Vue 3",
+      "link": "/Unfinished/Vue 3/0 - Vue 3.md",
+      "items": [
+        {
+          "text": "SPA.md",
+          "link": "/Unfinished/Vue 3/SPA.md"
+        }
+      ]
+    }
+  ],
+  "/Vue 3/": [
+    {
+      "text": "Vue 3",
+      "link": "/Vue 3/0 - Vue 3.md",
+      "items": [
+        {
+          "text": "0 - vue.md",
+          "link": "/Vue 3/0 - vue.md"
+        },
+        {
+          "text": "SPA.md",
+          "link": "/Vue 3/SPA.md"
+        }
+      ]
+    }
   ]
 }
