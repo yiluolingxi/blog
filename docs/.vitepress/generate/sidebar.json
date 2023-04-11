@@ -31,6 +31,34 @@
       ]
     }
   ],
+  "/Q & A/": [
+    {
+      "text": "vue 3",
+      "link": "/Q & A/vue 3/0 - vue 3.md",
+      "items": [
+        {
+          "text": "0 - Vue 3.md",
+          "link": "/Q & A/vue 3/0 - Vue 3.md"
+        },
+        {
+          "text": "在 Vue 3 中，如何定义一个组件.md",
+          "link": "/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md"
+        }
+      ]
+    }
+  ],
+  "/Study Schedule/": [
+    {
+      "text": "Vue 3",
+      "link": "/Study Schedule/Vue 3/0 - Vue 3.md",
+      "items": [
+        {
+          "text": "Vue 3.md",
+          "link": "/Study Schedule/Vue 3/Vue 3.md"
+        }
+      ]
+    }
+  ],
   "/Unfinished/": [
     {
       "text": "Vue 3",
@@ -39,6 +67,14 @@
         {
           "text": "SPA.md",
           "link": "/Unfinished/Vue 3/SPA.md"
+        },
+        {
+          "text": "TypeScript 与组合式 API.md",
+          "link": "/Unfinished/Vue 3/TypeScript 与组合式 API.md"
+        },
+        {
+          "text": "Web 爬虫.md",
+          "link": "/Unfinished/Vue 3/Web 爬虫.md"
         }
       ]
     }

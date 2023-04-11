@@ -18,6 +18,24 @@
     ]
   },
   {
+    "text": "Q & A",
+    "items": [
+      {
+        "text": "vue 3",
+        "link": "\\Q & A\\vue 3\\0 - vue 3.md"
+      }
+    ]
+  },
+  {
+    "text": "Study Schedule",
+    "items": [
+      {
+        "text": "Vue 3",
+        "link": "\\Study Schedule\\Vue 3\\0 - Vue 3.md"
+      }
+    ]
+  },
+  {
     "text": "Unfinished",
     "items": [
       {
