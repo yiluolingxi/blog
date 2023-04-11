@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d18521bfa71563e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Study Schedule/Vue 3/0 - Vue 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecc4b27d78a30846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Study Schedule/Vue 3/Vue 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Unfinished/Vue 3/Web 爬虫.md",
+                "file": "docs/Study Schedule/Vue 3/Vue 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Unfinished/Vue 3/Web 爬虫.md"
+                "file": "docs/Study Schedule/Vue 3/Vue 3.md"
               }
             }
           },
@@ -131,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Unfinished/Vue 3/Web 爬虫.md",
+                "file": "docs/Study Schedule/Vue 3/Vue 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,11 +182,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2147f17718bcf8ac",
+  "active": "ecc4b27d78a30846",
   "lastOpenFiles": [
+    "docs/Study Schedule/Vue 3/0 - Vue 3.md",
+    "docs/Study Schedule/Vue 3/Vue 3.md",
     "docs/Unfinished/Vue 3/SPA.md",
-    "docs/Unfinished/Vue 3/0 - Vue 3.md",
     "docs/Unfinished/Vue 3/Web 爬虫.md",
+    "docs/Study Schedule/Vue 3",
+    "docs/Study Schedule",
+    "docs/Unfinished/Vue 3/0 - Vue 3.md",
     "docs/interview/vue 3/SPA.md",
     "docs/Knowledge/Vue 3/SPA.md",
     "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
@@ -182,8 +210,6 @@
     "docs/demo/100.md",
     "docs/assets/images",
     "docs/unfiled/vue/SPA.md",
-    "未命名 1",
-    "docs/Knowledge/Vue 3",
     "docs/assets/Pasted image 20230409163639.png",
     "docs/assets/Pasted image 20230409163603.png",
     "docs/assets/Pasted image 20230409163638.png",
@@ -204,9 +230,7 @@
     "docs/linux/45 - curl 发送请求.md",
     "docs/unfiled/认知与优质信息.md",
     "docs/unfiled/机器数、真值、原码、反码、补码.md",
-    "docs/unfiled/clientLeft、clientHeight、clientWidth、clientHeight等区别.md",
     "未命名.canvas",
-    "docs/linux/0 - linux.md",
     "得到.canvas"
   ]
 }

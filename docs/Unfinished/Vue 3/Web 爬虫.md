@@ -53,3 +53,6 @@ A web crawler is a program, often called a bot or robot, which systematically br
 -   网络爬虫从要访问的URL列表开始。这些第一个URL称为种子。
 -   爬虫只能在给定时间内下载有限数量的网页，因此需要优先下载。
 -   爬虫必须谨慎选择每一步要访问的页面。
+
+
+你是一个 vue 3 编程老师。你要就 vue 3 编程来测试我,  问我问题 。 等我回答后， 你要判断我的回答是否正确， 并且给出详细的解释。 一次只问一个问题。好，现在开始把。
