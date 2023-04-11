@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c225045df9ac0dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Q & A/vue 3/0 - Vue 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c37fe4ee26272b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Study Schedule/Vue 3/Vue 3.md",
+                "file": "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Study Schedule/Vue 3/Vue 3.md"
+                "file": "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md"
               }
             }
           },
@@ -155,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Study Schedule/Vue 3/Vue 3.md",
+                "file": "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,10 +206,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ecc4b27d78a30846",
+  "active": "c37fe4ee26272b33",
   "lastOpenFiles": [
-    "docs/Study Schedule/Vue 3/0 - Vue 3.md",
+    "docs/Q & A/vue 3/0 - Vue 3.md",
+    "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
     "docs/Study Schedule/Vue 3/Vue 3.md",
+    "docs/Q & A/vue 3",
+    "docs/Q & A",
+    "docs/Study Schedule/Vue 3/0 - Vue 3.md",
     "docs/Unfinished/Vue 3/SPA.md",
     "docs/Unfinished/Vue 3/Web 爬虫.md",
     "docs/Study Schedule/Vue 3",
@@ -206,9 +234,7 @@
     "docs/Unfinished/Vue 3",
     "docs/Unfinished",
     "未命名",
-    "docs/webpack/未命名",
     "docs/demo/100.md",
-    "docs/assets/images",
     "docs/unfiled/vue/SPA.md",
     "docs/assets/Pasted image 20230409163639.png",
     "docs/assets/Pasted image 20230409163603.png",
@@ -228,8 +254,6 @@
     "docs/unfiled/ChatGPT 沟通技巧.md",
     "docs/unfiled/浏览器敲入 URL 过程.md",
     "docs/linux/45 - curl 发送请求.md",
-    "docs/unfiled/认知与优质信息.md",
-    "docs/unfiled/机器数、真值、原码、反码、补码.md",
     "未命名.canvas",
     "得到.canvas"
   ]
