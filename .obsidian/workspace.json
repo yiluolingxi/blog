@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Unfinished/Vue 3/SPA.md",
+                "file": "docs/interview/vue 3/SPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Unfinished/Vue 3/SPA.md",
+                "file": "docs/interview/vue 3/SPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Unfinished/Vue 3/SPA.md"
+                "file": "docs/interview/vue 3/SPA.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Unfinished/Vue 3/SPA.md",
+                "file": "docs/interview/vue 3/SPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,9 +147,9 @@
   },
   "active": "71ba34d538d55aba",
   "lastOpenFiles": [
+    "docs/Unfinished/Vue 3/SPA.md",
     "docs/interview/vue 3/SPA.md",
     "docs/Knowledge/Vue 3/SPA.md",
-    "docs/Unfinished/Vue 3/SPA.md",
     "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
     "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
     "docs/Knowledge/Vue 3/0 - Vue 3.md",
