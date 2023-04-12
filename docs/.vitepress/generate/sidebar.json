@@ -21,6 +21,16 @@
   ],
   "/Knowledge/": [
     {
+      "text": "GitHub",
+      "link": "/Knowledge/GitHub/0 - GitHub.md",
+      "items": [
+        {
+          "text": "GitHub右上角Watch、Star和Fork详解.md",
+          "link": "/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md"
+        }
+      ]
+    },
+    {
       "text": "Vue 3",
       "link": "/Knowledge/Vue 3/0 - Vue 3.md",
       "items": [
@@ -75,6 +85,10 @@
         {
           "text": "Web 爬虫.md",
           "link": "/Unfinished/Vue 3/Web 爬虫.md"
+        },
+        {
+          "text": "向chatGPT提问技巧.md",
+          "link": "/Unfinished/Vue 3/向chatGPT提问技巧.md"
         }
       ]
     }

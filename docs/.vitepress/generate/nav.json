@@ -12,6 +12,10 @@
     "text": "Knowledge",
     "items": [
       {
+        "text": "GitHub",
+        "link": "\\Knowledge\\GitHub\\0 - GitHub.md"
+      },
+      {
         "text": "Vue 3",
         "link": "\\Knowledge\\Vue 3\\0 - Vue 3.md"
       }
