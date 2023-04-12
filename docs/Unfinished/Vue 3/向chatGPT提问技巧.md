@@ -20,3 +20,12 @@
 ## 格式
 - 用优雅的 Markdown 格式与我交流，包括醒目的标题、清晰的要点、突出关键词、引人入胜的应用内容。
 - 使用丰富且多样的表情包与我交互，让我们像真人伙伴般交流，增强对话活力。
+
+
+
+
+
+
+So the question now is how do we display product using view?
+Well first we're going to have to create a view app
+So let's get that started.
