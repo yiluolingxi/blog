@@ -361,13 +361,13 @@ TypeScript 与组合式 API” 是指在 Vue.js 中使用 TypeScript 与组合�
       },
     },
     setup(props) {
-      // props 的类型是 { foo: string; bar: number }
+      // `props` 的类型是 `{ foo: string; bar: number }`
     },
   });
 </script>
 ```
 
-在上面的例子中，我们使用 `defineComponent()` 函数定义了一个 Vue 组件，并在其中定义了 props 选项。传入 `setup()` 的 props 对象类型是从 props 选项中推导而来。
+在上面的例子中，我们使用 `defineComponent()` 函数定义了一个 Vue 组件，并在其中定义了 props 选项。传入 `setup()` 的 `props` 对象类型是从 `props` 选项中推导而来。
 
 
 ### 如何使用 InstanceType 工具类型获取组件实例类型
@@ -423,24 +423,24 @@ provide 和 inject 通常会在不同的组件中运行。要正确地为注入�
 
 有时，您可能需要为一个子组件添加一个模板引用，以便调用它公开的方法。为了获取子组件的类型，我们首先需要通过 typeof 得到其类型，再使用 TypeScript 内置的 InstanceType 工具类型来获取其实例类型。
 
-### 如何使用 TypeScript 定义 setup 函数的返回值？
+### 如何使用 TypeScript 定义 setup 函数的返回值
 
-您可以在 setup 函数中显式地定义返回值的类型。例如：setup(): { count: Ref<number> }。
+您可以在 setup 函数中显式地定义返回值的类型。例如：`setup(): { count: Ref<number> }`。
 
-### 如何使用 TypeScript 定义 Teleport？
+### 如何使用 TypeScript 定义 Teleport
 
-Teleport 是 Vue 3 中引入的一种新特性，它允许您将组件的一部分内容传输到 DOM 中的其他位置。您可以在模板中使用 <teleport> 标签来定义 Teleport。目前，Vue 的类型定义不支持 Teleport 的类型检查。
-s
-###  如何使用 TypeScript 定义 Suspense？ 
+Teleport 是 Vue 3 中引入的一种新特性，它允许您将组件的一部分内容传输到 DOM 中的其他位置。您可以在模板中使用 ``<teleport>`` 标签来定义 Teleport。目前，Vue 的类型定义不支持 Teleport 的类型检查。
 
-Suspense 是 Vue 3 中引入的一种新特性，它允许您定义异步组件加载时的占位内容。您可以在模板中使用 <suspense> 标签来定义 Suspense。目前，Vue 的类型定义不支持 Suspense 的类型检查。
+###  如何使用 TypeScript 定义 Suspense 
 
-###  如何使用 TypeScript 定义自定义渲染函数？ 
+Suspense 是 Vue 3 中引入的一种新特性，它允许您定义异步组件加载时的占位内容。您可以在模板中使用`<suspense>`标签来定义 Suspense。目前，Vue 的类型定义不支持 Suspense 的类型检查。
+
+###  如何使用 TypeScript 定义自定义渲染函数
 
 您可以使用 render 函数来定义自定义渲染函数。例如：render() { return h('div', 'Hello World') }。您也可以为 render 函数的参数和返回值显式地定义类型。 
 
-###  如何使用 TypeScript 定义自定义过渡？ 
-您可以使用 <transition> 和 <transition-group> 组件来定义自定义过渡。目前，Vue 的类型定义不支持这些组件的类型检查。
+###  如何使用 TypeScript 定义自定义过渡 
+您可以使用 ``<transition>`` 和`<transition-group>` 组件来定义自定义过渡。目前，Vue 的类型定义不支持这些组件的类型检查。
 
 
 
