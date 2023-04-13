@@ -426,7 +426,7 @@ Vue 3高级特性
 ## 格式
 - 用优雅的 Markdown 格式与我交流，包括醒目的标题、清晰的要点、突出关键词、引人入胜的应用内容。
 
-组合式的代码： <template> <div> <p v-if="isShow">这是v-if指令</p> <p v-show="isShow">这是v-show指令</p> </div> </template> <script> import { reactive, ref } from 'vue'; export default { setup() { const state = reactive({ isShow: true, }); return { isShow: state.isShow, }; }, }; </script> 在组合式API中，我们使用reactive和ref函数来创建响应式数据。reactive用于创建包含多个响应式属性的对象，而ref则用于创建单个响应式属性。在setup函数中，我们将需要暴露给模板的变量返回即可。和 组合式的代码： <template> <div> <p v-if="isShow">这是v-if指令</p> <p v-show="isShow">这是v-show指令</p> </div> </template> <script> import { reactive, ref } from 'vue'; export default { setup() { const state = reactive({ isShow: true, }); return { isShow: state.isShow, }; }, }; </script> 在组合式API中，我们使用reactive和ref函数来创建响应式数据。reactive用于创建包含多个响应式属性的对象，而ref则用于创建单个响应式属性。在setup函数中，我们将需要暴露给模板的变量返回即可。组合式的代码： <template> <div> <p v-if="isShow">这是v-if指令</p> <p v-show="isShow">这是v-show指令</p> </div> </template> <script> import { reactive, ref } from 'vue'; export default { setup() { const state = reactive({ isShow: true, }); return { isShow: state.isShow, }; }, }; </script> 在组合式API中，我们使用reactive和ref函数来创建响应式数据。reactive用于创建包含多个响应式属性的对象，而ref则用于创建单个响应式属性。在setup函数中，我们将需要暴露给模板的变量返回即可。和 使用组合式API中的reactive和ref函数来创建响应式数据，并且可以将需要暴露给模板的变量返回即可。 但是，在模板中使用v-if或v-show指令时，不必通过将响应式数据赋值给模板变量来控制它们的显示/隐藏。相反，可以直接在模板中使用响应式数据属性，如下所示： html <template> <div> <p v-if="isShow">这是v-if指令</p> <p v-show="isShow">这是v-show指令</p> </div> </template> 此外，在setup函数中，可以直接返回一个包含所有暴露给模板的响应式数据和方法的对象，而无需将其一一列举。例如： javascript export default { setup() { const isShow = ref(true); function toggleShow() { isShow.value = !isShow.value; } return { isShow, toggleShow, }; }, }; 这样，模板中就可以直接使用isShow和toggleShow函数了。 哪一种代码比较好，比较新，比较有优势
+
 
 
 
