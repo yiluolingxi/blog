@@ -207,8 +207,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a531bcb9655b29ce",
+  "active": "04175215ecd793fc",
   "lastOpenFiles": [
+    "docs/interview/vue 3/SPA.md",
     "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
     "docs/Knowledge/GitHub/0 - GitHub.md",
     "docs/Knowledge/Vue 3/0 - Vue 3.md",
@@ -227,7 +228,6 @@
     "docs/Study Schedule/Vue 3",
     "docs/Study Schedule",
     "docs/Unfinished/Vue 3/0 - Vue 3.md",
-    "docs/interview/vue 3/SPA.md",
     "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
     "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
     "docs/interview/vue 3/0 - vue 3.md",

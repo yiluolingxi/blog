@@ -396,36 +396,37 @@ Vue 3高级特性
 ## 格式
 - 用优雅的 Markdown 格式与我交流，包括醒目的标题、清晰的要点、突出关键词、引人入胜的应用内容。
 
-背景
--  想把 Vue 3 官方文档作为学习的资源
--  想根据里面的主题学习，但有很多问题不明白
--  希望ChatGPT能帮我答疑解惑
+## 背景
+-  我对主题里的内容有很多疑问
+-  希望ChatGPT来解释有关主题里的内容的各种疑问
 
 ## 主题
-创建一个应用
+谈谈你对 Vue 3 中 v-if 和 v-show 的理解
 
 ## 任务
 - ChatGPT 说一说对我背景的理解
-- 下面是主题的学习要点，ChatGPT 围绕主题，逐一回答学习要点提出的问题
+- 请ChatGPT 围绕主题，逐一解释疑问里的每一个问题
+- 所有解释要有 Vue 3 组合式API 风格
 - 本次对话结束时， 你将给我5个建议、5个发问，以促达成目标
 
-## 学习要点
+## 疑问
+- 学习这个主题的基本步骤和建议是什么
 - 概念是什么
 - 它定义什么
 - 有那些核心概念和术语
 - 在现实生活中有哪些应用和使用场景
-- 学习这个主题的基本步骤和建议是什么
-- 针对这个主题有哪些优质的资源和教程
 - 如何实践和运用这个主题
 - 它有哪些常见的误区和挑战
-- 它未来趋势是什么
-- 针对这个主题有哪些经典的案例研究或成功应用
 - 有哪些最佳实践和常见陷阱
+- 针对这个主题有哪些经典的案例研究或成功应用
 - 如何评估自己在这个主题上的技能和知识水平 
+- 它未来趋势是什么
+- 针对这个主题有哪些优质的资源和教程
 
 ## 格式
 - 用优雅的 Markdown 格式与我交流，包括醒目的标题、清晰的要点、突出关键词、引人入胜的应用内容。
 
+组合式的代码： <template> <div> <p v-if="isShow">这是v-if指令</p> <p v-show="isShow">这是v-show指令</p> </div> </template> <script> import { reactive, ref } from 'vue'; export default { setup() { const state = reactive({ isShow: true, }); return { isShow: state.isShow, }; }, }; </script> 在组合式API中，我们使用reactive和ref函数来创建响应式数据。reactive用于创建包含多个响应式属性的对象，而ref则用于创建单个响应式属性。在setup函数中，我们将需要暴露给模板的变量返回即可。和 组合式的代码： <template> <div> <p v-if="isShow">这是v-if指令</p> <p v-show="isShow">这是v-show指令</p> </div> </template> <script> import { reactive, ref } from 'vue'; export default { setup() { const state = reactive({ isShow: true, }); return { isShow: state.isShow, }; }, }; </script> 在组合式API中，我们使用reactive和ref函数来创建响应式数据。reactive用于创建包含多个响应式属性的对象，而ref则用于创建单个响应式属性。在setup函数中，我们将需要暴露给模板的变量返回即可。组合式的代码： <template> <div> <p v-if="isShow">这是v-if指令</p> <p v-show="isShow">这是v-show指令</p> </div> </template> <script> import { reactive, ref } from 'vue'; export default { setup() { const state = reactive({ isShow: true, }); return { isShow: state.isShow, }; }, }; </script> 在组合式API中，我们使用reactive和ref函数来创建响应式数据。reactive用于创建包含多个响应式属性的对象，而ref则用于创建单个响应式属性。在setup函数中，我们将需要暴露给模板的变量返回即可。和 使用组合式API中的reactive和ref函数来创建响应式数据，并且可以将需要暴露给模板的变量返回即可。 但是，在模板中使用v-if或v-show指令时，不必通过将响应式数据赋值给模板变量来控制它们的显示/隐藏。相反，可以直接在模板中使用响应式数据属性，如下所示： html <template> <div> <p v-if="isShow">这是v-if指令</p> <p v-show="isShow">这是v-show指令</p> </div> </template> 此外，在setup函数中，可以直接返回一个包含所有暴露给模板的响应式数据和方法的对象，而无需将其一一列举。例如： javascript export default { setup() { const isShow = ref(true); function toggleShow() { isShow.value = !isShow.value; } return { isShow, toggleShow, }; }, }; 这样，模板中就可以直接使用isShow和toggleShow函数了。 哪一种代码比较好，比较新，比较有优势
 
 
 
