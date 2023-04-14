@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/0 - Vue 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b36ffeaab8da7a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md"
+                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,24 +219,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "04175215ecd793fc",
+  "active": "0b36ffeaab8da7a5",
   "lastOpenFiles": [
+    "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
+    "docs/Q & A/vue 3/0 - Vue 3.md",
+    "docs/Study Schedule/Vue 3/Vue 3.md",
+    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+    "docs/Unfinished/Vue 3/SPA.md",
+    "docs/Unfinished/Vue 3/Web 爬虫.md",
+    "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
+    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "docs/Knowledge/Vue 3/0 - Vue 3.md",
+    "docs/Knowledge/Vue 3/SPA.md",
+    "docs/Study Schedule/Vue 3/0 - Vue 3.md",
     "docs/interview/vue 3/SPA.md",
     "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
     "docs/Knowledge/GitHub/0 - GitHub.md",
-    "docs/Knowledge/Vue 3/0 - Vue 3.md",
     "docs/Knowledge/GitHub",
-    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
-    "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
-    "docs/Knowledge/Vue 3/SPA.md",
-    "docs/Q & A/vue 3/0 - Vue 3.md",
-    "docs/Study Schedule/Vue 3/0 - Vue 3.md",
-    "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
-    "docs/Study Schedule/Vue 3/Vue 3.md",
     "docs/Q & A/vue 3",
     "docs/Q & A",
-    "docs/Unfinished/Vue 3/SPA.md",
-    "docs/Unfinished/Vue 3/Web 爬虫.md",
     "docs/Study Schedule/Vue 3",
     "docs/Study Schedule",
     "docs/Unfinished/Vue 3/0 - Vue 3.md",
@@ -250,7 +263,6 @@
     "docs/unfiled/Cypress.md",
     "docs/unfiled/Generator 函数.md",
     "docs/unfiled/HTTP.md",
-    "docs/unfiled/require module.exports 和 import export.md",
     "docs/assets/20230408174139.png",
     "docs/assets/20230408173804.png",
     "docs/assets/20230408173737.png",
