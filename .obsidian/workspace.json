@@ -148,6 +148,8 @@
   },
   "active": "43e7b80527fbfa95",
   "lastOpenFiles": [
+    "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
+    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
     "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
     "docs/Study Schedule/Vue 3/Vue 3.md",
@@ -175,8 +177,6 @@
     "docs/Study Schedule/Vue 3/0 - Vue 3.md",
     "docs/Q & A/vue 3/0 - Vue 3.md",
     "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
-    "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
     "docs/interview/vue 3/SPA.md",
     "docs/interview/vue 3/0 - vue 3.md",
     "docs/demo/100.md",
