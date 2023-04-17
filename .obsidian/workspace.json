@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef678e2002247f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "dae7debb72c3a821",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md"
+                "file": "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "43e7b80527fbfa95",
+  "active": "0ef678e2002247f0",
   "lastOpenFiles": [
+    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
+    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
     "docs/科学上网.md",
     "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
     "node_modules/markdown-it/lib/presets/zero.js",
@@ -181,9 +197,6 @@
     "node_modules/resolve/SECURITY.md",
     "node_modules/vitepress-plugin-search/dist/flex-logo.svg",
     "node_modules/postcss/README.md",
-    "node_modules/supports-preserve-symlinks-flag/README.md",
-    "node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
-    "node_modules/shiki/README.md",
-    "node_modules/mdurl/CHANGELOG.md"
+    "node_modules/supports-preserve-symlinks-flag/README.md"
   ]
 }
