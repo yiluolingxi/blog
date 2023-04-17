@@ -162,6 +162,7 @@
   "active": "0ef678e2002247f0",
   "lastOpenFiles": [
     "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "docs/Knowledge/Vue 3/SPA.md",
     "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
     "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
     "docs/科学上网.md",
@@ -196,7 +197,6 @@
     "node_modules/jsonc-parser/SECURITY.md",
     "node_modules/resolve/SECURITY.md",
     "node_modules/vitepress-plugin-search/dist/flex-logo.svg",
-    "node_modules/postcss/README.md",
-    "node_modules/supports-preserve-symlinks-flag/README.md"
+    "node_modules/postcss/README.md"
   ]
 }
