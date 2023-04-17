@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md"
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md"
               }
             }
           }
@@ -148,40 +148,42 @@
   },
   "active": "43e7b80527fbfa95",
   "lastOpenFiles": [
-    "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
-    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
-    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-    "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
-    "docs/Study Schedule/Vue 3/Vue 3.md",
-    "blog123",
-    "blog/docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
-    "test.js",
-    "README.md",
-    "pnpm-lock.yaml",
-    "package.json",
-    "nginx.conf",
-    "docker-compose.yaml",
-    "scripts/generateSidebar.js",
-    "scripts/generateNav.js",
-    "scripts/generateMenu.js",
-    "scripts",
-    "docs/Knowledge/Vue 3/SPA.md",
-    "docs/Knowledge/Vue 3/0 - Vue 3.md",
-    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
-    "docs/Knowledge/GitHub/0 - GitHub.md",
-    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
-    "docs/Unfinished/Vue 3/Web 爬虫.md",
-    "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
-    "docs/Unfinished/Vue 3/SPA.md",
-    "docs/Unfinished/Vue 3/0 - Vue 3.md",
-    "docs/Study Schedule/Vue 3/0 - Vue 3.md",
-    "docs/Q & A/vue 3/0 - Vue 3.md",
-    "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-    "docs/interview/vue 3/SPA.md",
-    "docs/interview/vue 3/0 - vue 3.md",
-    "docs/demo/100.md",
     "docs/科学上网.md",
-    "docs/index.md",
-    "blog/docs/Unfinished/Vue 3/TypeScript 与组合式 API.md"
+    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
+    "node_modules/markdown-it/lib/presets/zero.js",
+    "node_modules/markdown-it/lib/presets/default.js",
+    "node_modules/markdown-it/lib/presets/commonmark.js",
+    "node_modules/markdown-it/lib/presets",
+    "node_modules/uc.micro/properties/Any/regex.js",
+    "node_modules/uc.micro/properties/Any",
+    "node_modules/uc.micro/properties",
+    "node_modules/uc.micro/categories/Z/regex.js",
+    "node_modules/uc.micro/categories/Cf/regex.js",
+    "node_modules/uc.micro/categories/P/regex.js",
+    "node_modules/path-parse/README.md",
+    "node_modules/is-core-module/README.md",
+    "node_modules/is-core-module/CHANGELOG.md",
+    "node_modules/has/README.md",
+    "node_modules/body-scroll-lock/README.md",
+    "node_modules/vitepress-plugin-search/node_modules/rollup/README.md",
+    "node_modules/vitepress/README.md",
+    "node_modules/vitepress/template/markdown-examples.md",
+    "node_modules/vitepress/template/index.md",
+    "node_modules/vitepress/template/api-examples.md",
+    "node_modules/vitepress-plugin-search/node_modules/rollup/CHANGELOG.md",
+    "node_modules/flexsearch/CHANGELOG.md",
+    "node_modules/vitepress-plugin-search/node_modules/vitepress/README.md",
+    "node_modules/vite/LICENSE.md",
+    "node_modules/vitepress-plugin-search/README.md",
+    "node_modules/rollup/README.md",
+    "node_modules/rollup/LICENSE.md",
+    "node_modules/jsonc-parser/SECURITY.md",
+    "node_modules/resolve/SECURITY.md",
+    "node_modules/vitepress-plugin-search/dist/flex-logo.svg",
+    "node_modules/postcss/README.md",
+    "node_modules/supports-preserve-symlinks-flag/README.md",
+    "node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
+    "node_modules/shiki/README.md",
+    "node_modules/mdurl/CHANGELOG.md"
   ]
 }

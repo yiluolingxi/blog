@@ -15,6 +15,10 @@
         {
           "text": "Vue3 和 Vue2 代理的区别、优势.md",
           "link": "/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md"
+        },
+        {
+          "text": "谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+          "link": "/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md"
         }
       ]
     }
@@ -37,6 +41,10 @@
         {
           "text": "SPA.md",
           "link": "/Knowledge/Vue 3/SPA.md"
+        },
+        {
+          "text": "谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+          "link": "/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md"
         }
       ]
     }
