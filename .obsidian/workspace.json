@@ -1,112 +1,39 @@
 {
   "main": {
-    "id": "a1f16341d69653a7",
+    "id": "4c55a79aeb1c57c1",
     "type": "split",
     "children": [
       {
-        "id": "7fe3dc66e4ecfd76",
+        "id": "49b0f95bddcc0a6c",
         "type": "tabs",
         "children": [
           {
-            "id": "71ba34d538d55aba",
+            "id": "43e7b80527fbfa95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/interview/vue 3/SPA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2147f17718bcf8ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Unfinished/Vue 3/Web 爬虫.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d18521bfa71563e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Study Schedule/Vue 3/0 - Vue 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecc4b27d78a30846",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Study Schedule/Vue 3/Vue 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c225045df9ac0dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04175215ecd793fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/0 - Vue 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b36ffeaab8da7a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+                "file": "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eb47ce1dac2da4e1",
+    "id": "9730b7ead7ff41c3",
     "type": "split",
     "children": [
       {
-        "id": "c419d70ea85a42ab",
+        "id": "266ee927c9683d20",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b2ad56fb300a95",
+            "id": "b517b61784ba0553",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -116,12 +43,12 @@
             }
           },
           {
-            "id": "a88c9db8295b2d96",
+            "id": "29e9243df626b9ba",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "\"开启 brotli\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +58,7 @@
             }
           },
           {
-            "id": "afd7842b7ef6771b",
+            "id": "034ca17dea1b6dc2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -142,30 +69,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 300
   },
   "right": {
-    "id": "cd013ef00a62e2ca",
+    "id": "dae7debb72c3a821",
     "type": "split",
     "children": [
       {
-        "id": "2131cde0799e0b8a",
+        "id": "457ed4d6567812a3",
         "type": "tabs",
         "children": [
           {
-            "id": "bcae709bb1c8fd4a",
+            "id": "4a7921ec0dbb52ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4549109e353b30d7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+                "file": "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7c12f3d0772a0bdb",
+            "id": "23424a3fe2e47714",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,38 +120,21 @@
             }
           },
           {
-            "id": "8975263c8b3c4251",
+            "id": "61a8d7ad9c197bfe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md"
-              }
-            }
-          },
-          {
-            "id": "a531bcb9655b29ce",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,55 +146,42 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0b36ffeaab8da7a5",
+  "active": "43e7b80527fbfa95",
   "lastOpenFiles": [
-    "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
-    "docs/Q & A/vue 3/0 - Vue 3.md",
-    "docs/Study Schedule/Vue 3/Vue 3.md",
-    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
-    "docs/Unfinished/Vue 3/SPA.md",
-    "docs/Unfinished/Vue 3/Web 爬虫.md",
-    "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
     "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-    "docs/Knowledge/Vue 3/0 - Vue 3.md",
+    "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
+    "docs/Study Schedule/Vue 3/Vue 3.md",
+    "blog123",
+    "blog/docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+    "test.js",
+    "README.md",
+    "pnpm-lock.yaml",
+    "package.json",
+    "nginx.conf",
+    "docker-compose.yaml",
+    "scripts/generateSidebar.js",
+    "scripts/generateNav.js",
+    "scripts/generateMenu.js",
+    "scripts",
     "docs/Knowledge/Vue 3/SPA.md",
-    "docs/Study Schedule/Vue 3/0 - Vue 3.md",
-    "docs/interview/vue 3/SPA.md",
+    "docs/Knowledge/Vue 3/0 - Vue 3.md",
     "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
     "docs/Knowledge/GitHub/0 - GitHub.md",
-    "docs/Knowledge/GitHub",
-    "docs/Q & A/vue 3",
-    "docs/Q & A",
-    "docs/Study Schedule/Vue 3",
-    "docs/Study Schedule",
+    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+    "docs/Unfinished/Vue 3/Web 爬虫.md",
+    "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
+    "docs/Unfinished/Vue 3/SPA.md",
     "docs/Unfinished/Vue 3/0 - Vue 3.md",
-    "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
+    "docs/Study Schedule/Vue 3/0 - Vue 3.md",
+    "docs/Q & A/vue 3/0 - Vue 3.md",
+    "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
+    "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
+    "docs/interview/vue 3/SPA.md",
     "docs/interview/vue 3/0 - vue 3.md",
-    "docs/Knowledge",
-    "docs/Vue 3/未命名",
-    "docs/Vue 3/0 - vue.md",
-    "README.md",
-    "docs/Unfinished/未命名.md",
-    "docs/Unfinished/Vue 3/SPA",
-    "docs/Unfinished/Vue 3",
-    "docs/Unfinished",
     "docs/demo/100.md",
-    "docs/unfiled/vue/SPA.md",
-    "docs/assets/Pasted image 20230409163639.png",
-    "docs/assets/Pasted image 20230409163603.png",
-    "docs/assets/Pasted image 20230409163638.png",
-    "docs/assets/Pasted image 20230409163533.png",
-    "docs/assets/Pasted image 20230409163522.png",
-    "docs/assets/277790923f0cc9b36fb96ed9d40c209.png",
-    "docs/unfiled/Cypress.md",
-    "docs/unfiled/Generator 函数.md",
-    "docs/unfiled/HTTP.md",
-    "docs/assets/20230408174139.png",
-    "docs/assets/20230408173804.png",
-    "docs/assets/20230408173737.png",
-    "docs/assets/20230408173735.png",
-    "未命名.canvas",
-    "得到.canvas"
+    "docs/科学上网.md",
+    "docs/index.md",
+    "blog/docs/Unfinished/Vue 3/TypeScript 与组合式 API.md"
   ]
 }
