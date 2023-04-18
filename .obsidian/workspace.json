@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Vue 3 源码.md",
+                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Vue 3 源码.md",
+                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Vue 3 源码.md",
+                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Vue 3 源码.md"
+                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "6cae40679a1d858a",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
+    "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/Knowledge/Vue 3/Vue 3 源码.md",
+    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/vite.js",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/openChrome.applescript",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin",
@@ -208,7 +209,6 @@
     "node_modules/rollup/README.md",
     "node_modules/rollup/LICENSE.md",
     "node_modules/jsonc-parser/SECURITY.md",
-    "node_modules/resolve/SECURITY.md",
     "node_modules/vitepress-plugin-search/dist/flex-logo.svg"
   ]
 }
