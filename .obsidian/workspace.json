@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cae40679a1d858a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Knowledge/Vue 3/Vue 3 源码.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
+                "file": "docs/Knowledge/Vue 3/Vue 3 源码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
+                "file": "docs/Knowledge/Vue 3/Vue 3 源码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md"
+                "file": "docs/Knowledge/Vue 3/Vue 3 源码.md"
               }
             }
           }
@@ -159,24 +171,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0ef678e2002247f0",
+  "active": "6cae40679a1d858a",
   "lastOpenFiles": [
+    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
+    "docs/Knowledge/Vue 3/Vue 3 源码.md",
+    "node_modules/vitepress-plugin-search/node_modules/vite/bin/vite.js",
+    "node_modules/vitepress-plugin-search/node_modules/vite/bin/openChrome.applescript",
+    "node_modules/vitepress-plugin-search/node_modules/vite/bin",
+    "node_modules/vitepress-plugin-search/node_modules/@vitejs/plugin-vue/dist/index.mjs",
+    "node_modules/vitepress-plugin-search/node_modules/@vitejs/plugin-vue/dist/index.d.ts",
+    "node_modules/vitepress-plugin-search/node_modules/@vitejs/plugin-vue/dist/index.cjs",
+    "node_modules/vitepress-plugin-search/node_modules/@vitejs/plugin-vue/dist",
+    "node_modules/vite/bin/vite.js",
+    "node_modules/vite/bin/openChrome.applescript",
+    "node_modules/vite/bin",
     "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/Knowledge/Vue 3/SPA.md",
-    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
     "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
     "docs/科学上网.md",
     "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
-    "node_modules/markdown-it/lib/presets/zero.js",
-    "node_modules/markdown-it/lib/presets/default.js",
-    "node_modules/markdown-it/lib/presets/commonmark.js",
-    "node_modules/markdown-it/lib/presets",
-    "node_modules/uc.micro/properties/Any/regex.js",
-    "node_modules/uc.micro/properties/Any",
-    "node_modules/uc.micro/properties",
-    "node_modules/uc.micro/categories/Z/regex.js",
-    "node_modules/uc.micro/categories/Cf/regex.js",
-    "node_modules/uc.micro/categories/P/regex.js",
     "node_modules/path-parse/README.md",
     "node_modules/is-core-module/README.md",
     "node_modules/is-core-module/CHANGELOG.md",
@@ -196,7 +209,6 @@
     "node_modules/rollup/LICENSE.md",
     "node_modules/jsonc-parser/SECURITY.md",
     "node_modules/resolve/SECURITY.md",
-    "node_modules/vitepress-plugin-search/dist/flex-logo.svg",
-    "node_modules/postcss/README.md"
+    "node_modules/vitepress-plugin-search/dist/flex-logo.svg"
   ]
 }
