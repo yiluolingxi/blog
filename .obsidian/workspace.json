@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+                "file": "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8b3024260199f1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Knowledge/Vue 3/计算属性.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+                "file": "docs/Knowledge/Vue 3/计算属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+                "file": "docs/Knowledge/Vue 3/计算属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md"
+                "file": "docs/Knowledge/Vue 3/计算属性.md"
               }
             }
           }
@@ -171,8 +183,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6cae40679a1d858a",
+  "active": "f8b3024260199f1d",
   "lastOpenFiles": [
+    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
+    "docs/Knowledge/Vue 3/计算属性.md",
+    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/Knowledge/Vue 3/Vue 3 源码.md",
     "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
@@ -186,7 +201,6 @@
     "node_modules/vite/bin/vite.js",
     "node_modules/vite/bin/openChrome.applescript",
     "node_modules/vite/bin",
-    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/Knowledge/Vue 3/SPA.md",
     "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
     "docs/科学上网.md",
@@ -207,8 +221,6 @@
     "node_modules/vite/LICENSE.md",
     "node_modules/vitepress-plugin-search/README.md",
     "node_modules/rollup/README.md",
-    "node_modules/rollup/LICENSE.md",
-    "node_modules/jsonc-parser/SECURITY.md",
     "node_modules/vitepress-plugin-search/dist/flex-logo.svg"
   ]
 }
