@@ -185,12 +185,14 @@
   },
   "active": "f8b3024260199f1d",
   "lastOpenFiles": [
-    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
-    "docs/Knowledge/Vue 3/计算属性.md",
-    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/Knowledge/Vue 3/Vue 3 源码.md",
     "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
+    "docs/Knowledge/Vue 3/计算属性.md",
+    "docs/interview/vue 3/SPA.md",
+    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
+    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/vite.js",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/openChrome.applescript",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin",
@@ -204,7 +206,6 @@
     "docs/Knowledge/Vue 3/SPA.md",
     "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
     "docs/科学上网.md",
-    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
     "node_modules/path-parse/README.md",
     "node_modules/is-core-module/README.md",
     "node_modules/is-core-module/CHANGELOG.md",
@@ -220,7 +221,6 @@
     "node_modules/vitepress-plugin-search/node_modules/vitepress/README.md",
     "node_modules/vite/LICENSE.md",
     "node_modules/vitepress-plugin-search/README.md",
-    "node_modules/rollup/README.md",
     "node_modules/vitepress-plugin-search/dist/flex-logo.svg"
   ]
 }
