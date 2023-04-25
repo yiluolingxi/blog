@@ -71,4 +71,4 @@ then display that description using an expression within a P tag
 ![[Pasted image 20230425155336.png]]
 
 You'll find a link to the challenges solution code below this video 
-as a reminder If you're coding along with our repo. You can check out the ending code as well. So for this one , it would be L2 - end
+as a reminder If you're coding along with our repo. You can check out the ending code as well. 
