@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue 是什么.md",
+                "file": "docs/Knowledge/Vue 3/Creating the Vue App.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue 是什么.md",
+                "file": "docs/Knowledge/Vue 3/Creating the Vue App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue 是什么.md",
+                "file": "docs/Knowledge/Vue 3/Creating the Vue App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue 是什么.md"
+                "file": "docs/Knowledge/Vue 3/Creating the Vue App.md"
               }
             }
           }
@@ -245,31 +245,31 @@
   },
   "active": "88d0a8f02ff7bfb5",
   "lastOpenFiles": [
+    "docs/Knowledge/Vue 3/组合式API.md",
+    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "docs/Knowledge/Vue 3/计算属性.md",
+    "docs/Knowledge/Vue 3/0 - Vue 3.md",
+    "docs/Knowledge/Vue 3/Vue 3 源码.md",
+    "docs/Knowledge/Vue 3/vue 是什么.md",
+    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
+    "docs/Knowledge/JSON.md",
     "Pasted image 20230425181101.png",
     "Pasted image 20230425180448.png",
     "Pasted image 20230425175554.png",
     "Pasted image 20230425175301.png",
     "Pasted image 20230425175047.png",
     "docs/Knowledge/Vue 3/Creating the Vue App.md",
-    "docs/Knowledge/Vue 3/vue 是什么.md",
     "Pasted image 20230425155336.png",
     "Pasted image 20230425154948.png",
     "Pasted image 20230425154759.png",
     "Pasted image 20230425152555.png",
     "Pasted image 20230425151817.png",
-    "docs/Knowledge/Vue 3/计算属性.md",
-    "docs/Knowledge/Vue 3/0 - Vue 3.md",
-    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-    "docs/Knowledge/Vue 3/组合式API.md",
-    "docs/Knowledge/Vue 3/Vue 3 源码.md",
     "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md",
     "docs/Knowledge/读后感",
     "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-    "docs/Knowledge/JSON.md",
     "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
     "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
     "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
-    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
     "docs/interview/vue 3/SPA.md",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/vite.js",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/openChrome.applescript",
@@ -289,7 +289,6 @@
     "node_modules/has/README.md",
     "node_modules/body-scroll-lock/README.md",
     "node_modules/vitepress-plugin-search/node_modules/rollup/README.md",
-    "node_modules/vitepress/README.md",
-    "node_modules/vitepress-plugin-search/dist/flex-logo.svg"
+    "node_modules/vitepress/README.md"
   ]
 }
