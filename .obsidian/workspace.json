@@ -85,26 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/组合式API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "216b5afa5e230caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/响应式原理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -170,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/响应式原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/响应式原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md"
+                "file": "docs/Knowledge/Vue 3/响应式原理.md"
               }
             }
           }
@@ -231,25 +219,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "216b5afa5e230caa",
+  "active": "158cc028f7889e2d",
   "lastOpenFiles": [
-    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
-    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
-    "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
-    "Pasted image 20230425151817.png",
-    "docs/assets/images/Pasted image 20230425151817.png",
-    "docs/assets/images/Pasted image 20230425181101.png",
+    "Pasted image 20230426231703.png",
+    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "Pasted image 20230426231613.png",
+    "Pasted image 20230426230834.png",
+    "Pasted image 20230426231138.png",
+    "Pasted image 20230426231427.png",
+    "docs/Knowledge/Vue 3/响应式原理.md",
+    "Pasted image 20230426225913.png",
+    "Pasted image 20230426225845.png",
+    "Pasted image 20230426222747.png.md",
+    "Pasted image 20230426225635.png",
+    "Pasted image 20230426225555.png",
     "docs/assets/images/Pasted image 20230425180448.png",
-    "docs/assets/images/Pasted image 20230425175554.png",
-    "docs/assets/images/Pasted image 20230425175301.png",
-    "docs/assets/images/Pasted image 20230425175047.png",
-    "docs/assets/images/Pasted image 20230425155336.png",
-    "docs/assets/images/Pasted image 20230425154948.png",
-    "docs/assets/images/Pasted image 20230425154759.png",
+    "docs/assets/images/Pasted image 20230425181101.png",
+    "docs/demo/100.md",
+    "docs/Knowledge/Javascript/数组方法.md",
+    "docs/Knowledge/Vue 3/未命名",
+    "docs/Study Schedule/Vue 3/Vue 3.md",
+    "docs/Knowledge/Javascript",
+    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
+    "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
     "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md",
     "docs/Knowledge/Vue 3/Creating the Vue App.md",
     "docs/Knowledge/Vue 3/组合式API.md",
-    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/Knowledge/Vue 3/计算属性.md",
     "docs/Knowledge/Vue 3/0 - Vue 3.md",
     "docs/Knowledge/Vue 3/Vue 3 源码.md",
@@ -268,16 +264,8 @@
     "node_modules/vitepress-plugin-search/node_modules/@vitejs/plugin-vue/dist/index.d.ts",
     "node_modules/vitepress-plugin-search/node_modules/@vitejs/plugin-vue/dist/index.cjs",
     "node_modules/vitepress-plugin-search/node_modules/@vitejs/plugin-vue/dist",
-    "node_modules/vite/bin/vite.js",
-    "node_modules/vite/bin/openChrome.applescript",
     "docs/Knowledge/Vue 3/SPA.md",
     "docs/科学上网.md",
-    "node_modules/path-parse/README.md",
-    "node_modules/is-core-module/README.md",
-    "node_modules/is-core-module/CHANGELOG.md",
-    "node_modules/has/README.md",
-    "node_modules/body-scroll-lock/README.md",
-    "node_modules/vitepress-plugin-search/node_modules/rollup/README.md",
-    "node_modules/vitepress/README.md"
+    "node_modules/path-parse/README.md"
   ]
 }
