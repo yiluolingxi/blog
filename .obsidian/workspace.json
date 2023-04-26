@@ -97,26 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Creating the Vue App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88d0a8f02ff7bfb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md",
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md",
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md",
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md"
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md"
               }
             }
           }
@@ -243,8 +231,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "88d0a8f02ff7bfb5",
+  "active": "216b5afa5e230caa",
   "lastOpenFiles": [
+    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
+    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+    "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
+    "Pasted image 20230425151817.png",
+    "docs/assets/images/Pasted image 20230425151817.png",
+    "docs/assets/images/Pasted image 20230425181101.png",
+    "docs/assets/images/Pasted image 20230425180448.png",
+    "docs/assets/images/Pasted image 20230425175554.png",
+    "docs/assets/images/Pasted image 20230425175301.png",
+    "docs/assets/images/Pasted image 20230425175047.png",
+    "docs/assets/images/Pasted image 20230425155336.png",
+    "docs/assets/images/Pasted image 20230425154948.png",
+    "docs/assets/images/Pasted image 20230425154759.png",
+    "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md",
     "docs/Knowledge/Vue 3/Creating the Vue App.md",
     "docs/Knowledge/Vue 3/组合式API.md",
     "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
@@ -254,22 +256,10 @@
     "docs/Knowledge/Vue 3/vue 是什么.md",
     "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
     "docs/Knowledge/JSON.md",
-    "Pasted image 20230425181101.png",
-    "Pasted image 20230425180448.png",
-    "Pasted image 20230425175554.png",
-    "Pasted image 20230425175301.png",
-    "Pasted image 20230425175047.png",
-    "Pasted image 20230425155336.png",
-    "Pasted image 20230425154948.png",
-    "Pasted image 20230425154759.png",
-    "Pasted image 20230425152555.png",
-    "Pasted image 20230425151817.png",
-    "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md",
     "docs/Knowledge/读后感",
     "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
     "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
-    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
     "docs/interview/vue 3/SPA.md",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/vite.js",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/openChrome.applescript",
@@ -281,7 +271,6 @@
     "node_modules/vite/bin/vite.js",
     "node_modules/vite/bin/openChrome.applescript",
     "docs/Knowledge/Vue 3/SPA.md",
-    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
     "docs/科学上网.md",
     "node_modules/path-parse/README.md",
     "node_modules/is-core-module/README.md",
