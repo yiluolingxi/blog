@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+                "file": "docs/Knowledge/Vue 3/响应式原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,21 +78,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "158cc028f7889e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/响应式原理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,26 +206,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b517b61784ba0553",
+  "active": "43e7b80527fbfa95",
   "lastOpenFiles": [
-    "docs/assets/images/Pasted image 20230426231703.png",
-    "docs/assets/images/Pasted image 20230426225555.png",
-    "docs/assets/images/Pasted image 20230426224245.png",
-    "docs/assets/images/Pasted image 20230426224206.png",
-    "docs/assets/images/Pasted image 20230426224142.png",
-    "docs/assets/images/Pasted image 20230427115032.png",
-    "docs/assets/images/Pasted image 20230427114110.png",
-    "docs/assets/images/Pasted image 20230427113854.png",
-    "docs/assets/images/Pasted image 20230427113711.png",
-    "docs/assets/images/Pasted image 20230427114758.png",
-    "docs/assets/images/Pasted image 20230427114532.png",
+    "Pasted image 20230427220139.png",
+    "Pasted image 20230427215902.png",
+    "Pasted image 20230427215724.png",
+    "Pasted image 20230427215539.png",
+    "docs/Knowledge/Vue 3/响应式原理.md",
+    "Pasted image 20230427215214.png",
+    "Pasted image 20230427214039.png",
+    "Pasted image 20230427212835.png",
+    "Pasted image 20230427212754.png",
+    "Pasted image 20230427212234.png",
+    "Pasted image 20230427212022.png",
+    "Pasted image 20230427211715.png",
     "docker-compose.yaml",
     "docs/assets/images/docker-compose.yaml",
     "docs/Knowledge/读后感/0 - 读后感.md",
     "docs/Knowledge/Javascript/0 - Javascript.md",
     "docs/Knowledge/0 - Knowledge.md",
     "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-    "docs/Knowledge/Vue 3/响应式原理.md",
     "Pasted image 20230426222747.png.md",
     "docs/demo/100.md",
     "docs/Knowledge/Javascript/数组方法.md",
