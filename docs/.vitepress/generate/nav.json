@@ -16,8 +16,16 @@
         "link": "\\Knowledge\\GitHub\\0 - GitHub.md"
       },
       {
+        "text": "Javascript",
+        "link": "\\Knowledge\\Javascript\\0 - Javascript.md"
+      },
+      {
         "text": "Vue 3",
         "link": "\\Knowledge\\Vue 3\\0 - Vue 3.md"
+      },
+      {
+        "text": "读后感",
+        "link": "\\Knowledge\\读后感\\0 - 读后感.md"
       }
     ]
   },

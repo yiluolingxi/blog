@@ -35,16 +35,64 @@
       ]
     },
     {
+      "text": "Javascript",
+      "link": "/Knowledge/Javascript/0 - Javascript.md",
+      "items": [
+        {
+          "text": "数组方法.md",
+          "link": "/Knowledge/Javascript/数组方法.md"
+        }
+      ]
+    },
+    {
       "text": "Vue 3",
       "link": "/Knowledge/Vue 3/0 - Vue 3.md",
       "items": [
+        {
+          "text": "Creating the Vue App.md",
+          "link": "/Knowledge/Vue 3/Creating the Vue App.md"
+        },
         {
           "text": "SPA.md",
           "link": "/Knowledge/Vue 3/SPA.md"
         },
         {
+          "text": "vue 是什么.md",
+          "link": "/Knowledge/Vue 3/vue 是什么.md"
+        },
+        {
+          "text": "Vue实例挂载的过程中发生了什么.md",
+          "link": "/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md"
+        },
+        {
+          "text": "响应式原理.md",
+          "link": "/Knowledge/Vue 3/响应式原理.md"
+        },
+        {
+          "text": "组合式API.md",
+          "link": "/Knowledge/Vue 3/组合式API.md"
+        },
+        {
+          "text": "计算属性.md",
+          "link": "/Knowledge/Vue 3/计算属性.md"
+        },
+        {
+          "text": "Vue 3 源码.md",
+          "link": "/Knowledge/Vue 3/Vue 3 源码.md"
+        },
+        {
           "text": "谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
           "link": "/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md"
+        }
+      ]
+    },
+    {
+      "text": "读后感",
+      "link": "/Knowledge/读后感/0 - 读后感.md",
+      "items": [
+        {
+          "text": "书看完记不住，感觉记住了又说不出来怎么办.md",
+          "link": "/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md"
         }
       ]
     }
