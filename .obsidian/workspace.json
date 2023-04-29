@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#region是什么",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,18 +209,18 @@
   },
   "active": "43e7b80527fbfa95",
   "lastOpenFiles": [
+    "Pasted image 20230429151930.png",
+    "Pasted image 20230429151726.png",
+    "Pasted image 20230429150604.png",
+    "Pasted image 20230429144419.png",
+    "Pasted image 20230429144306.png",
+    "Pasted image 20230429143950.png",
+    "Pasted image 20230429143716.png",
     "Pasted image 20230427220139.png",
     "Pasted image 20230427215902.png",
     "Pasted image 20230427215724.png",
     "Pasted image 20230427215539.png",
     "docs/Knowledge/Vue 3/响应式原理.md",
-    "Pasted image 20230427215214.png",
-    "Pasted image 20230427214039.png",
-    "Pasted image 20230427212835.png",
-    "Pasted image 20230427212754.png",
-    "Pasted image 20230427212234.png",
-    "Pasted image 20230427212022.png",
-    "Pasted image 20230427211715.png",
     "docker-compose.yaml",
     "docs/assets/images/docker-compose.yaml",
     "docs/Knowledge/读后感/0 - 读后感.md",
