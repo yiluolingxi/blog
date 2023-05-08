@@ -18,66 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0ef678e2002247f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cae40679a1d858a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8b3024260199f1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/计算属性.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdc96904ae1fcdd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "591c89ae73b359e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -125,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,6 +148,11 @@
   },
   "active": "43e7b80527fbfa95",
   "lastOpenFiles": [
+    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "docs/Knowledge/Vue 3/响应式原理.md",
+    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
+    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
+    "docs/Knowledge/Vue 3/计算属性.md",
     "Pasted image 20230429151930.png",
     "Pasted image 20230429151726.png",
     "Pasted image 20230429150604.png",
@@ -219,14 +163,11 @@
     "Pasted image 20230427220139.png",
     "Pasted image 20230427215902.png",
     "Pasted image 20230427215724.png",
-    "Pasted image 20230427215539.png",
-    "docs/Knowledge/Vue 3/响应式原理.md",
     "docker-compose.yaml",
     "docs/assets/images/docker-compose.yaml",
     "docs/Knowledge/读后感/0 - 读后感.md",
     "docs/Knowledge/Javascript/0 - Javascript.md",
     "docs/Knowledge/0 - Knowledge.md",
-    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "Pasted image 20230426222747.png.md",
     "docs/demo/100.md",
     "docs/Knowledge/Javascript/数组方法.md",
@@ -234,16 +175,13 @@
     "docs/Study Schedule/Vue 3/Vue 3.md",
     "docs/Knowledge/Javascript",
     "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
-    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
     "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
     "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md",
     "docs/Knowledge/Vue 3/Creating the Vue App.md",
     "docs/Knowledge/Vue 3/组合式API.md",
-    "docs/Knowledge/Vue 3/计算属性.md",
     "docs/Knowledge/Vue 3/0 - Vue 3.md",
     "docs/Knowledge/Vue 3/Vue 3 源码.md",
     "docs/Knowledge/Vue 3/vue 是什么.md",
-    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
     "docs/Knowledge/JSON.md",
     "docs/Knowledge/读后感",
     "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
