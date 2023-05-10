@@ -253,7 +253,6 @@ console.log(`设置 \${target} 的\${propKey} 属性，值为\${value}`);
 
 - 点运算符
 
-  
 点运算符（Dot Operator）是一种在编程中常见的操作符，用于访问对象的属性或调用对象的方法。
 
 在大多数编程语言中，使用点运算符可以通过对象的名称后面加上点号和属性名来访问对象的属性。例如：
@@ -272,4 +271,31 @@ console.log(person.name); // 输出: Alice
 console.log(person.age); // 输出: 30
 person.sayHello(); // 输出: Hello!
 ```
+
+上述例子中，通过点运算符访问了 `person` 对象的 `name` 属性和 `age` 属性，并且通过点运算符调用了 `sayHello` 方法。
+
+点运算符也可以用于访问对象的嵌套属性。如果对象的属性值也是一个对象，可以通过连续使用点运算符来访问嵌套的属性。例如：
+
+```js
+// JavaScript示例
+const person = {
+  name: 'Alice',
+  age: 30,
+  address: {
+    city: 'New York',
+    country: 'USA'
+  }
+};
+
+console.log(person.address.city); // 输出: New York
+console.log(person.address.country); // 输出: USA
+```
+
+上述例子中，通过点运算符访问了 `person` 对象的 `address` 属性，然后再通过点运算符访问了 `address` 对象的 `city` 属性和 `country` 属性。
+
+需要注意的是，点运算符要求属性名是一个有效的标识符（identifier），也就是符合命名规则的字符串。如果属性名包含特殊字符或不符合标识符的规则，就无法使用点运算符进行访问，可以使用方括号运算符（Bracket Operator）来代替。
+
+总而言之，点运算符是一种用于访问对象属性和调用对象方法的操作符，可以通过对象名称后面加上点号和属性名来使用。它在访问对象属性和方法时提供了简洁和直观的语法。
+
+- 点运算来源
 
