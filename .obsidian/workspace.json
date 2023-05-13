@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b199032d2398cdc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+                "file": "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md"
+                "file": "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md"
               }
             }
           }
@@ -171,13 +183,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "35037b8826c99de8",
+  "active": "b199032d2398cdc0",
   "lastOpenFiles": [
+    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+    "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
     "docs/Knowledge/Vue 3/vue3.0 中为什么要使用 Proxy，它相比以前的实现方式有什么改进.md",
     "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/Knowledge/Vue 3/响应式原理.md",
     "docs/Knowledge/Vue 3/Proxy.md",
-    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
     "docs/科学上网.md",
     "docs/Knowledge/Vue 3/SPA.md",
     "docs/Knowledge/Vue 3/Vue 3 源码.md",
@@ -212,7 +225,6 @@
     "docs/Knowledge/Vue 3/未命名",
     "docs/Study Schedule/Vue 3/Vue 3.md",
     "docs/Knowledge/Javascript",
-    "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
     "docs/Knowledge/读后感",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/vite.js",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/openChrome.applescript",
