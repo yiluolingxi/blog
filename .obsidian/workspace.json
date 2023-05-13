@@ -78,9 +78,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e8b2403bd92ebd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Knowledge/Vue 3/vue3 中，如何使用vue实现一个 message API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45a3f85266ae4315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Knowledge/Vue 3/如果使用 SSR，可以在 `created`或`componentWillMount` 中访问 `localStorage`吗.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c527992cc3acaca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d6c07687781e060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e4e458530e67560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -146,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
+                "file": "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
+                "file": "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md"
+                "file": "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md"
               }
             }
           }
@@ -207,10 +267,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5793a66e28f818c9",
+  "active": "6e4e458530e67560",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md",
+    "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
+    "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
+    "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
+    "docs/Knowledge/Vue 3/如果使用 SSR，可以在 `created`或`componentWillMount` 中访问 `localStorage`吗.md",
+    "docs/Knowledge/Vue 3/vue3 中，如何使用vue实现一个 message API.md",
     "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
+    "docs/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md",
     "docs/Knowledge/Vue 3/Vue 3 源码.md",
     "docs/Knowledge/Vue 3/计算属性.md",
     "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
@@ -242,11 +307,6 @@
     "Pasted image 20230427220139.png",
     "docker-compose.yaml",
     "docs/assets/images/docker-compose.yaml",
-    "docs/Knowledge/读后感/0 - 读后感.md",
-    "docs/Knowledge/Javascript/0 - Javascript.md",
-    "docs/Knowledge/0 - Knowledge.md",
-    "Pasted image 20230426222747.png.md",
-    "docs/demo/100.md",
     "docs/Knowledge/Vue 3/未命名",
     "docs/Knowledge/Javascript",
     "docs/Knowledge/读后感",
