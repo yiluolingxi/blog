@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md"
+                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md"
               }
             }
           }
@@ -185,11 +185,11 @@
   },
   "active": "b199032d2398cdc0",
   "lastOpenFiles": [
-    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+    "docs/Knowledge/Vue 3/响应式原理.md",
     "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
+    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
     "docs/Knowledge/Vue 3/vue3.0 中为什么要使用 Proxy，它相比以前的实现方式有什么改进.md",
     "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-    "docs/Knowledge/Vue 3/响应式原理.md",
     "docs/Knowledge/Vue 3/Proxy.md",
     "docs/科学上网.md",
     "docs/Knowledge/Vue 3/SPA.md",
