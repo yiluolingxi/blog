@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
+                "file": "docs/Knowledge/Vue 3/0 - Vue 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
+                "file": "docs/Knowledge/Vue 3/0 - Vue 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
+                "file": "docs/Knowledge/Vue 3/0 - Vue 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md"
+                "file": "docs/Knowledge/Vue 3/0 - Vue 3.md"
               }
             }
           }
@@ -148,36 +148,36 @@
   },
   "active": "cd38a8ea01fdc7b0",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue 3/响应式原理.md",
+    "docs/Study Schedule/Vue 3/0 - Vue 3.md",
+    "Pasted image 20230426222358.png",
+    "Pasted image 20230429151726.png",
+    "Pasted image 20230429151930.png",
+    "docs/Knowledge/Vue 3/mutation不处理异步的原因.md",
+    "docs/Knowledge/Vue 3/Vue3 中的 router 实现原理.md",
+    "docs/Unfinished/Vue 3/Web 爬虫.md",
+    "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
+    "docs/Knowledge/Vue 3/Proxy.md",
+    "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
+    "docs/Knowledge/Vue 3/Vue 3 源码.md",
+    "docs/Knowledge/Vue 3/现代框架如 Vue 相比原生开发有什么优势.md",
+    "docs/Knowledge/Vue 3/0 - Vue 3.md",
     "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
+    "docs/Knowledge/Vue 3/vue3 中，如何使用vue实现一个 message API.md",
+    "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
+    "docs/Knowledge/Vue 3/vue3.0 中为什么要使用 Proxy，它相比以前的实现方式有什么改进.md",
+    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
+    "docs/Knowledge/Vue 3/响应式原理.md",
     "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
     "docs/Knowledge/Vue 3/计算属性.md",
     "docs/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md",
-    "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
-    "docs/Knowledge/Vue 3/vue3 中，如何使用vue实现一个 message API.md",
     "docs/Knowledge/Vue 3/如果使用 SSR，可以在 `created`或`componentWillMount` 中访问 `localStorage`吗.md",
-    "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
     "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
-    "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
-    "docs/Knowledge/Vue 3/现代框架如 Vue 相比原生开发有什么优势.md",
-    "docs/Knowledge/Vue 3/Vue3 中的 router 实现原理.md",
     "docs/Knowledge/Vue 3/前端项目中有哪些副作用.md",
     "docs/Knowledge/Vue 3/Vue 中受控组件与不受控组件的区别.md",
     "docs/Knowledge/Vue 3/Vue 中兄弟组件如何进行通信.md",
     "docs/Knowledge/Vue 3/在虚拟 DOM 中进行 diff 算法时，介绍当根据 key 对数组进行重用时的算法.md",
-    "docs/Knowledge/Vue 3/mutation不处理异步的原因.md",
-    "docs/Knowledge/Vue 3/hash和history路由.md",
-    "docs/Knowledge/Vue 3/defineProperty缺点.md",
-    "docs/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md",
-    "docs/Knowledge/Vue 3/Vue 3 源码.md",
-    "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
-    "docs/Knowledge/Vue 3/vue3.0 中为什么要使用 Proxy，它相比以前的实现方式有什么改进.md",
-    "docs/Knowledge/Vue 3/Proxy.md",
-    "docs/科学上网.md",
     "Pasted image 20230427212234.png",
-    "Pasted image 20230426222358.png",
-    "Pasted image 20230429151726.png",
-    "Pasted image 20230429151930.png",
     "Pasted image 20230429150604.png",
     "Pasted image 20230429144419.png",
     "Pasted image 20230429144306.png",

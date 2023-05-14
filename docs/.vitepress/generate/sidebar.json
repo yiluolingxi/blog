@@ -53,20 +53,76 @@
           "link": "/Knowledge/Vue 3/Creating the Vue App.md"
         },
         {
+          "text": "defineProperty缺点.md",
+          "link": "/Knowledge/Vue 3/defineProperty缺点.md"
+        },
+        {
+          "text": "hash和history路由.md",
+          "link": "/Knowledge/Vue 3/hash和history路由.md"
+        },
+        {
+          "text": "mutation不处理异步的原因.md",
+          "link": "/Knowledge/Vue 3/mutation不处理异步的原因.md"
+        },
+        {
+          "text": "Proxy.md",
+          "link": "/Knowledge/Vue 3/Proxy.md"
+        },
+        {
           "text": "SPA.md",
           "link": "/Knowledge/Vue 3/SPA.md"
+        },
+        {
+          "text": "Vue 中 nextTick 的实现原理是什么.md",
+          "link": "/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md"
+        },
+        {
+          "text": "Vue 中兄弟组件如何进行通信.md",
+          "link": "/Knowledge/Vue 3/Vue 中兄弟组件如何进行通信.md"
+        },
+        {
+          "text": "Vue 中受控组件与不受控组件的区别.md",
+          "link": "/Knowledge/Vue 3/Vue 中受控组件与不受控组件的区别.md"
+        },
+        {
+          "text": "vue 数组中 key 的作用是什么.md",
+          "link": "/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md"
         },
         {
           "text": "vue 是什么.md",
           "link": "/Knowledge/Vue 3/vue 是什么.md"
         },
         {
+          "text": "vue-loader 的实现原理是什么.md",
+          "link": "/Knowledge/Vue 3/vue-loader 的实现原理是什么.md"
+        },
+        {
           "text": "Vue实例挂载的过程中发生了什么.md",
           "link": "/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md"
         },
         {
+          "text": "前端项目中有哪些副作用.md",
+          "link": "/Knowledge/Vue 3/前端项目中有哪些副作用.md"
+        },
+        {
           "text": "响应式原理.md",
           "link": "/Knowledge/Vue 3/响应式原理.md"
+        },
+        {
+          "text": "在虚拟 DOM 中进行 diff 算法时，介绍当根据 key 对数组进行重用时的算法.md",
+          "link": "/Knowledge/Vue 3/在虚拟 DOM 中进行 diff 算法时，介绍当根据 key 对数组进行重用时的算法.md"
+        },
+        {
+          "text": "如何设计一个 UI 组件库.md",
+          "link": "/Knowledge/Vue 3/如何设计一个 UI 组件库.md"
+        },
+        {
+          "text": "如果使用 SSR，可以在 `created`或`componentWillMount` 中访问 `localStorage`吗.md",
+          "link": "/Knowledge/Vue 3/如果使用 SSR，可以在 `created`或`componentWillMount` 中访问 `localStorage`吗.md"
+        },
+        {
+          "text": "现代框架如 Vue 相比原生开发有什么优势.md",
+          "link": "/Knowledge/Vue 3/现代框架如 Vue 相比原生开发有什么优势.md"
         },
         {
           "text": "组合式API.md",
@@ -79,6 +135,30 @@
         {
           "text": "Vue 3 源码.md",
           "link": "/Knowledge/Vue 3/Vue 3 源码.md"
+        },
+        {
+          "text": "vue3 中 computed 的原理是什么.md",
+          "link": "/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md"
+        },
+        {
+          "text": "vue3 中数组是否可以以在数组中的次序为 key.md",
+          "link": "/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md"
+        },
+        {
+          "text": "Vue3 中的 router 实现原理.md",
+          "link": "/Knowledge/Vue 3/Vue3 中的 router 实现原理.md"
+        },
+        {
+          "text": "vue3 中，如何使用vue实现一个 message API.md",
+          "link": "/Knowledge/Vue 3/vue3 中，如何使用vue实现一个 message API.md"
+        },
+        {
+          "text": "vue3 中，如何监听数组的变化.md",
+          "link": "/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md"
+        },
+        {
+          "text": "vue3.0 中为什么要使用 Proxy，它相比以前的实现方式有什么改进.md",
+          "link": "/Knowledge/Vue 3/vue3.0 中为什么要使用 Proxy，它相比以前的实现方式有什么改进.md"
         },
         {
           "text": "谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
