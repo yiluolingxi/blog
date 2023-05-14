@@ -4,107 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49b0f95bddcc0a6c",
+        "id": "3d65951df54f3259",
         "type": "tabs",
         "children": [
           {
-            "id": "43e7b80527fbfa95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/响应式原理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7cb037ec0ce9fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35037b8826c99de8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b199032d2398cdc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/计算属性.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb6636142aa51c26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5793a66e28f818c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e8b2403bd92ebd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/vue3 中，如何使用vue实现一个 message API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45a3f85266ae4315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/如果使用 SSR，可以在 `created`或`componentWillMount` 中访问 `localStorage`吗.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c527992cc3acaca7",
+            "id": "cd38a8ea01fdc7b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,93 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2d6c07687781e060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e4e458530e67560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cabb13351b56c0b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9142a735fc29a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/现代框架如 Vue 相比原生开发有什么优势.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "337fb5e820ed4379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/Vue3 中的 router 实现原理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66448d8cddd7688f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/前端项目中有哪些副作用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fae6e292c405c7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Knowledge/Vue 3/Vue 中受控组件与不受控组件的区别.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 229.5
   },
   "right": {
     "id": "dae7debb72c3a821",
@@ -266,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Vue 中受控组件与不受控组件的区别.md",
+                "file": "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Vue 中受控组件与不受控组件的区别.md",
+                "file": "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/Vue 中受控组件与不受控组件的区别.md"
+                "file": "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md"
               }
             }
           }
@@ -327,38 +146,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4fae6e292c405c7f",
+  "active": "cd38a8ea01fdc7b0",
   "lastOpenFiles": [
+    "docs/Knowledge/Vue 3/响应式原理.md",
+    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
+    "docs/Knowledge/Vue 3/计算属性.md",
+    "docs/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md",
+    "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
+    "docs/Knowledge/Vue 3/vue3 中，如何使用vue实现一个 message API.md",
+    "docs/Knowledge/Vue 3/如果使用 SSR，可以在 `created`或`componentWillMount` 中访问 `localStorage`吗.md",
+    "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
+    "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
+    "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
+    "docs/Knowledge/Vue 3/现代框架如 Vue 相比原生开发有什么优势.md",
+    "docs/Knowledge/Vue 3/Vue3 中的 router 实现原理.md",
     "docs/Knowledge/Vue 3/前端项目中有哪些副作用.md",
     "docs/Knowledge/Vue 3/Vue 中受控组件与不受控组件的区别.md",
-    "docs/Knowledge/Vue 3/Vue3 中的 router 实现原理.md",
-    "docs/Knowledge/Vue 3/现代框架如 Vue 相比原生开发有什么优势.md",
-    "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
-    "docs/Knowledge/Vue 3/vue3 中，如何使用vue实现一个 message API.md",
+    "docs/Knowledge/Vue 3/Vue 中兄弟组件如何进行通信.md",
+    "docs/Knowledge/Vue 3/在虚拟 DOM 中进行 diff 算法时，介绍当根据 key 对数组进行重用时的算法.md",
+    "docs/Knowledge/Vue 3/mutation不处理异步的原因.md",
+    "docs/Knowledge/Vue 3/hash和history路由.md",
+    "docs/Knowledge/Vue 3/defineProperty缺点.md",
     "docs/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md",
-    "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
-    "docs/Knowledge/Vue 3/vue3 中数组是否可以以在数组中的次序为 key.md",
-    "docs/Knowledge/Vue 3/如果使用 SSR，可以在 `created`或`componentWillMount` 中访问 `localStorage`吗.md",
-    "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
-    "docs/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md",
     "docs/Knowledge/Vue 3/Vue 3 源码.md",
-    "docs/Knowledge/Vue 3/计算属性.md",
-    "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
     "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
-    "docs/Knowledge/Vue 3/响应式原理.md",
     "docs/Knowledge/Vue 3/vue3.0 中为什么要使用 Proxy，它相比以前的实现方式有什么改进.md",
-    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/Knowledge/Vue 3/Proxy.md",
     "docs/科学上网.md",
-    "docs/Knowledge/Vue 3/SPA.md",
-    "docs/Knowledge/Vue 3/vue 是什么.md",
     "Pasted image 20230427212234.png",
     "Pasted image 20230426222358.png",
     "Pasted image 20230429151726.png",
     "Pasted image 20230429151930.png",
-    "README.md",
-    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
-    "docs/Knowledge/Vue 3/组合式API.md",
     "Pasted image 20230429150604.png",
     "Pasted image 20230429144419.png",
     "Pasted image 20230429144306.png",
