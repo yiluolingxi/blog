@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "docs/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a35ecf9cb038956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "docs/Knowledge/Vue 3/beforeDestroy 和 beforeUnmount.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,10 +171,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "139cd3d7c6c6a214",
+  "active": "7a35ecf9cb038956",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue 3/0 - Vue 3.md",
+    "docs/Knowledge/GitHub/GitHub右上角Watch、Star和Fork详解.md",
+    "docs/Knowledge/GitHub/0 - GitHub.md",
     "docs/Knowledge/Vue 3/beforeDestroy 和 beforeUnmount.md",
+    "docs/Knowledge/Vue 3/0 - Vue 3.md",
+    "docs/Knowledge/Vue 3/Proxy.md",
+    "docs/Knowledge/Javascript/数组方法.md",
+    "docs/Knowledge/Axios/Axios.md",
+    "docs/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md",
+    "docs/Knowledge/Axios",
+    "docs/Knowledge/未命名.md",
+    "docs/Knowledge/Vue 3/Axios",
+    "docs/Knowledge/Axios.md",
     "docs/Study Schedule/Vue 3/0 - Vue 3.md",
     "Pasted image 20230426222358.png",
     "Pasted image 20230429151726.png",
@@ -171,7 +193,6 @@
     "docs/Knowledge/Vue 3/Vue3 中的 router 实现原理.md",
     "docs/Unfinished/Vue 3/Web 爬虫.md",
     "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
-    "docs/Knowledge/Vue 3/Proxy.md",
     "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
     "docs/Knowledge/Vue 3/Vue 3 源码.md",
     "docs/Knowledge/Vue 3/现代框架如 Vue 相比原生开发有什么优势.md",
@@ -183,13 +204,6 @@
     "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
     "docs/Knowledge/Vue 3/响应式原理.md",
     "docs/Unfinished/Vue 3/向chatGPT提问技巧.md",
-    "docs/Knowledge/Vue 3/计算属性.md",
-    "docs/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md",
-    "docs/Knowledge/Vue 3/如果使用 SSR，可以在 `created`或`componentWillMount` 中访问 `localStorage`吗.md",
-    "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
-    "docs/Knowledge/Vue 3/前端项目中有哪些副作用.md",
-    "docs/Knowledge/Vue 3/Vue 中受控组件与不受控组件的区别.md",
-    "docs/Knowledge/Vue 3/Vue 中兄弟组件如何进行通信.md",
     "Pasted image 20230427212234.png",
     "Pasted image 20230429150604.png",
     "Pasted image 20230429144419.png",
@@ -199,13 +213,11 @@
     "Pasted image 20230427220139.png",
     "docker-compose.yaml",
     "docs/assets/images/docker-compose.yaml",
-    "docs/Knowledge/Vue 3/未命名",
     "docs/Knowledge/Javascript",
     "docs/Knowledge/读后感",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/vite.js",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin/openChrome.applescript",
     "node_modules/vitepress-plugin-search/node_modules/vite/bin",
-    "node_modules/vitepress-plugin-search/node_modules/@vitejs/plugin-vue/dist/index.mjs",
-    "node_modules/vitepress-plugin-search/node_modules/@vitejs/plugin-vue/dist/index.d.ts"
+    "node_modules/vitepress-plugin-search/node_modules/@vitejs/plugin-vue/dist/index.mjs"
   ]
 }
