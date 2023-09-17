@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/computed和watch的区别.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be0857d5bcf9b822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 简介.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dae7debb72c3a821",
@@ -168,10 +156,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "be0857d5bcf9b822",
+  "active": "cd38a8ea01fdc7b0",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 目录.md",
+    "docs/assets/Pasted image 20230917170832.png",
+    "docs/demo/100.md",
     "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 简介.md",
+    "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 目录.md",
+    "docs/Knowledge/Vue 3/computed和watch的区别.md",
+    "未命名.canvas",
     "docs/Q & A/vue 3/0 - Vue 3.md",
     "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
     "docs/Knowledge/Vue 2 + Vue 3 全家桶",
@@ -184,7 +176,6 @@
     "docs/Knowledge/Vue 3/计算属性.md",
     "docs/Knowledge/Vue 3/0 - Vue 3.md",
     "docs/Knowledge/Vue 3/Vue 中兄弟组件如何进行通信.md",
-    "docs/Knowledge/Vue 3/computed和watch的区别.md",
     "docs/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md",
     "docs/Knowledge/Vue 3/beforeDestroy 和 beforeUnmount.md",
     "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
@@ -195,8 +186,6 @@
     "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
     "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
     "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
-    "docs/Knowledge/Vue 3/现代框架如 Vue 相比原生开发有什么优势.md",
-    "docs/Knowledge/Vue 3/hash和history路由.md",
     "docs/Knowledge/Axios",
     "docs/Knowledge/Vue 3/Axios",
     "Pasted image 20230426222358.png",
