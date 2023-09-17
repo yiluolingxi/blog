@@ -29,9 +29,9 @@ Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图
     所以以后如果别人想用这个功能，只需要把 .vue 文件引用过去就可以拿到这些功能，想要修改也只需改    该组建里面的内容，不会影响到其它组建。  
     
     
- 
+ https://sub.sanfen010.xyz/api/v1/client/subscribe?token=947792d71b50518a3a48e5dd91b0b22c&flag=clash
    
   
 
 
-  
+  https://sanfen002.xyz/api/v1/client/subscribe?token=947792d71b50518a3a48e5dd91b0b22c&flag=clash
