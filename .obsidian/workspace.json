@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 简介.md",
+                "file": "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dae7debb72c3a821",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 简介.md",
+                "file": "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 简介.md",
+                "file": "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 简介.md"
+                "file": "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md"
               }
             }
           }
@@ -158,9 +157,19 @@
   },
   "active": "cd38a8ea01fdc7b0",
   "lastOpenFiles": [
+    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
+    "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
+    "Pasted image 20230429151930.png",
+    "README.md",
+    "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 简介.md",
+    "docs/assets/Pasted image 20230926184411.png",
+    "docs/assets/Pasted image 20230926182509.png",
+    "docs/assets/Pasted image 20230926182240.png",
+    "docs/assets/Pasted image 20230926182109.png",
+    "docs/assets/Pasted image 20230926181818.png",
+    "docs/assets/Pasted image 20230926181525.png",
     "docs/assets/Pasted image 20230917170832.png",
     "docs/demo/100.md",
-    "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 简介.md",
     "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 目录.md",
     "docs/Knowledge/Vue 3/computed和watch的区别.md",
     "未命名.canvas",
@@ -169,7 +178,6 @@
     "docs/Knowledge/Vue 2 + Vue 3 全家桶",
     "docs/interview/vue 3/SPA.md",
     "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
-    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
     "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
     "docs/Knowledge/Vue 3/如果使用 SSR，可以在 `created`或`componentWillMount` 中访问 `localStorage`吗.md",
     "docs/Knowledge/Vue 3/前端项目中有哪些副作用.md",
@@ -183,21 +191,11 @@
     "docs/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md",
     "docs/Knowledge/Vue 3/Creating the Vue App.md",
     "docs/Unfinished/Vue 3/TypeScript 与组合式 API.md",
-    "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
     "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
-    "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
     "docs/Knowledge/Axios",
     "docs/Knowledge/Vue 3/Axios",
     "Pasted image 20230426222358.png",
     "Pasted image 20230429151726.png",
-    "Pasted image 20230429151930.png",
-    "Pasted image 20230427212234.png",
-    "Pasted image 20230429150604.png",
-    "Pasted image 20230429144419.png",
-    "Pasted image 20230429144306.png",
-    "Pasted image 20230429143950.png",
-    "Pasted image 20230429143716.png",
-    "Pasted image 20230427220139.png",
     "docker-compose.yaml",
     "docs/assets/images/docker-compose.yaml",
     "docs/Knowledge/Javascript",

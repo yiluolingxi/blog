@@ -28,10 +28,17 @@ Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图
 
     所以以后如果别人想用这个功能，只需要把 .vue 文件引用过去就可以拿到这些功能，想要修改也只需改    该组建里面的内容，不会影响到其它组建。  
     
-    
- https://sub.sanfen010.xyz/api/v1/client/subscribe?token=947792d71b50518a3a48e5dd91b0b22c&flag=clash
-   
-  
+ 2. 声明式编码， 让编码人员无需直接操作DOM, 提高开发效率。
+![](Pasted%20image%2020230926181525.png)
 
+![](Pasted%20image%2020230926181818.png)
 
-  https://sanfen002.xyz/api/v1/client/subscribe?token=947792d71b50518a3a48e5dd91b0b22c&flag=clash
+ 3. 使用 虚拟DOM+优秀的Diff算法， 尽可能复用 DOM 节点。
+
+![](Pasted%20image%2020230926182109.png)
+
+![](Pasted%20image%2020230926182240.png)
+
+![](Pasted%20image%2020230926184411.png)
+新旧虚拟 DOM 进行 diff比较，然后复用
+
