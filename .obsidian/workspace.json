@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d65951df54f3259",
+        "id": "1feba39dd2ab9605",
         "type": "tabs",
         "children": [
           {
-            "id": "cd38a8ea01fdc7b0",
+            "id": "933ee59bd6ffe9d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/template与Jsx.md",
+                "file": "docs/Knowledge/Vue 3/nextTick.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 460.5,
+    "collapsed": true
   },
   "right": {
     "id": "dae7debb72c3a821",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 3/template与Jsx.md",
+                "file": "docs/Knowledge/Vue 3/nextTick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/template与Jsx.md",
+                "file": "docs/Knowledge/Vue 3/nextTick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/template与Jsx.md"
+                "file": "docs/Knowledge/Vue 3/nextTick.md"
               }
             }
           }
@@ -155,10 +156,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cd38a8ea01fdc7b0",
+  "active": "933ee59bd6ffe9d2",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue 3/computed和watch的区别.md",
+    "docs/Knowledge/Vue 3/计算属性.md",
+    "docs/Knowledge/Vue 3/组合式API.md",
+    "docs/Knowledge/Vue 3/nextTick.md",
+    "docs/Knowledge/Vue 3/编写Message组件.md",
+    "docs/Knowledge/Vue 3/beforeDestroy 和 beforeUnmount.md",
+    "docs/Knowledge/Vue 3/现代框架如 Vue 相比原生开发有什么优势.md",
+    "docs/Knowledge/Vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/Knowledge/Vue 3/template与Jsx.md",
+    "docs/Knowledge/Vue 3/computed和watch的区别.md",
     "docs/Knowledge/Vue 3/Creating the Vue App.md",
     "docs/Knowledge/Vue 3/在虚拟 DOM 中进行 diff 算法时，介绍当根据 key 对数组进行重用时的算法.md",
     "docs/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md",
@@ -177,13 +185,6 @@
     "docs/Knowledge/Vue 3/Vue3tree-shaking.md",
     "docs/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md",
     "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
-    "docs/Knowledge/Vue 3/Vue 中受控组件与不受控组件的区别.md",
-    "docs/Knowledge/Vue 3/vue3.0 中为什么要使用 Proxy，它相比以前的实现方式有什么改进.md",
-    "docs/Knowledge/Vue 3/Vue 中兄弟组件如何进行通信.md",
-    "docs/Knowledge/Vue 3/vue-loader 的实现原理是什么.md",
-    "docs/Knowledge/0 - Knowledge.md",
-    "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
-    "node_modules/@algolia/autocomplete-preset-algolia/README.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "docs/assets/images/Pasted image 20230425181101.png",
