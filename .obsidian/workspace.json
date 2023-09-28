@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue 3/nextTick.md",
+                "file": "docs/Knowledge/Vue 3/路由懒加载的简单原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue 3/nextTick.md",
+                "file": "docs/Knowledge/Vue 3/路由懒加载的简单原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue 3/nextTick.md",
+                "file": "docs/Knowledge/Vue 3/路由懒加载的简单原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue 3/nextTick.md"
+                "file": "docs/Knowledge/Vue 3/路由懒加载的简单原理.md"
               }
             }
           }
@@ -158,9 +158,15 @@
   },
   "active": "933ee59bd6ffe9d2",
   "lastOpenFiles": [
+    "docs/Knowledge/Vue 3/生命周期.md",
+    "docs/Knowledge/Vue 3/路由懒加载的简单原理.md",
+    "docs/Knowledge/Vue 3/自定义指令.md",
+    "docs/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md",
+    "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
+    "docs/Knowledge/Vue 3/Plugin.md",
+    "docs/Knowledge/Vue 3/nextTick.md",
     "docs/Knowledge/Vue 3/计算属性.md",
     "docs/Knowledge/Vue 3/组合式API.md",
-    "docs/Knowledge/Vue 3/nextTick.md",
     "docs/Knowledge/Vue 3/编写Message组件.md",
     "docs/Knowledge/Vue 3/beforeDestroy 和 beforeUnmount.md",
     "docs/Knowledge/Vue 3/现代框架如 Vue 相比原生开发有什么优势.md",
@@ -169,8 +175,6 @@
     "docs/Knowledge/Vue 3/computed和watch的区别.md",
     "docs/Knowledge/Vue 3/Creating the Vue App.md",
     "docs/Knowledge/Vue 3/在虚拟 DOM 中进行 diff 算法时，介绍当根据 key 对数组进行重用时的算法.md",
-    "docs/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md",
-    "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
     "docs/Knowledge/Vue 3/vue 是什么.md",
     "docs/Knowledge/Vue 3/SPA.md",
     "docs/Knowledge/Vue 3/Proxy.md",
@@ -181,10 +185,6 @@
     "docs/Study Schedule/Vue 3/Vue 3.md",
     "docs/Study Schedule/Vue 3/0 - Vue 3.md",
     "未命名",
-    "docs/Knowledge/Vue 3/Vue 3 源码.md",
-    "docs/Knowledge/Vue 3/Vue3tree-shaking.md",
-    "docs/Knowledge/Vue 3/vue3 中 computed 的原理是什么.md",
-    "docs/Knowledge/Vue 3/vue3 中，如何监听数组的变化.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "docs/assets/images/Pasted image 20230425181101.png",
