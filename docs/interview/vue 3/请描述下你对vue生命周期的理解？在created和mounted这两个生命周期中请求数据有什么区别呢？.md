@@ -11,3 +11,41 @@ Vue的生命周期主要包括以下几个阶段：创建（creation）、挂载
     
 - 如果你的数据请求需要在请求数据后立即操作DOM，那么你应该在`mounted`生命周期中请求数据。因为只有在`mounted`生命周期中，Vue实例才被挂载到DOM上，此时才能进行DOM操作。
 
+在Vue 3中，如果你使用组合式API，你可以在`setup`和`onMounted`函数中请求数据。以下是一个简单的示例：  
+```js
+import { ref, onMounted } from 'vue'
+import axios from 'axios'
+
+export default {
+  setup() {
+    const data = ref(null)
+
+    // 在setup函数中请求数据
+    axios.get('https://api.example.com/data')
+      .then(response => {
+        data.value = response.data
+      })
+      .catch(error => {
+        console.error(error)
+      })
+
+    onMounted(() => {
+      // 在onMounted函数中请求数据
+      axios.get('https://api.example.com/data')
+        .then(response => {
+          // 在这里你可以进行DOM操作
+          console.log(response.data)
+        })
+        .catch(error => {
+          console.error(error)
+        })
+    })
+
+    return {
+      data
+    }
+  }
+}
+```
+在这个示例中，我们在`setup`函数中请求数据，并将返回的数据存储在响应式引用`data`中。然后，在`onMounted`函数中，我们再次请求数据，并在请求成功后进行DOM操作。  
+

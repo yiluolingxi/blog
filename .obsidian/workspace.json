@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/interview/vue 3/请描述下你对vue生命周期的理解？在created和mounted这两个生命周期中请求数据有什么区别呢？.md",
+                "file": "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5,
-    "collapsed": true
+    "width": 460.5
   },
   "right": {
     "id": "dae7debb72c3a821",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/interview/vue 3/请描述下你对vue生命周期的理解？在created和mounted这两个生命周期中请求数据有什么区别呢？.md",
+                "file": "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/interview/vue 3/请描述下你对vue生命周期的理解？在created和mounted这两个生命周期中请求数据有什么区别呢？.md",
+                "file": "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/interview/vue 3/请描述下你对vue生命周期的理解？在created和mounted这两个生命周期中请求数据有什么区别呢？.md"
+                "file": "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md"
               }
             }
           }
@@ -158,20 +157,24 @@
   },
   "active": "933ee59bd6ffe9d2",
   "lastOpenFiles": [
+    "docs/interview/vue 3/Vue中组件和插件有什么区别？.md",
+    "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md",
+    "docs/interview/vue 3/动态给vue的data添加一个新的属性时会发生什么？怎样解决？.md",
+    "docs/interview/vue 3/为什么data属性是一个函数而不是一个对象？.md",
+    "docs/interview/vue 3/SPA首屏加载速度慢的怎么解决？什么是首屏加载,加载慢的原因.md",
+    "docs/interview/vue 3/SPA.md",
+    "docs/interview/vue 3/为什么vue中的v-if和v-for不建议一起用，它们的优先级是什么？.md",
+    "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "docs/interview/vue 3/请描述下你对vue生命周期的理解？在created和mounted这两个生命周期中请求数据有什么区别呢？.md",
     "docs/interview/vue 3/Vue实例挂载的过程.md",
     "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
     "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
-    "docs/interview/vue 3/v-if和v-for的优先级是什么？.md",
-    "docs/interview/vue 3/SPA首屏加载速度慢的怎么解决？.md",
     "docs/interview/v-if和v-for的优先级是什么？.md",
     "docs/interview/未命名.md",
-    "docs/interview/vue 3/请描述下你对vue生命周期的理解？在created和mounted这两个生命周期中请求数据有什么区别呢？.md",
     "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
     "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
     "docs/Study Schedule/Vue 3/Vue 3.md",
     "docs/interview/vue 3/说说你对vue的理解.md",
-    "docs/interview/vue 3/SPA.md",
-    "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
     "docs/interview/vue 3/0 - vue 3.md",
     "docs/Knowledge/Axios/Axios.md",
     "docs/Knowledge/Vue 3/SPA.md",
@@ -180,10 +183,6 @@
     "docs/Knowledge/Vue 3/生命周期.md",
     "docs/Knowledge/Vue 3/自定义指令.md",
     "docs/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md",
-    "docs/Knowledge/Vue 3/vue 数组中 key 的作用是什么.md",
-    "docs/Knowledge/Vue 3/Plugin.md",
-    "docs/Knowledge/Vue 3/nextTick.md",
-    "docs/Knowledge/Vue 3/计算属性.md",
     "未命名",
     "未命名 2.canvas",
     "未命名 1.canvas",
