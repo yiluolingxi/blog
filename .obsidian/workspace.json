@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md",
+                "file": "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 460.5,
+    "collapsed": true
   },
   "right": {
     "id": "dae7debb72c3a821",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md",
+                "file": "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md",
+                "file": "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md"
+                "file": "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md"
               }
             }
           }
@@ -157,32 +158,32 @@
   },
   "active": "933ee59bd6ffe9d2",
   "lastOpenFiles": [
-    "docs/interview/vue 3/Vue中组件和插件有什么区别？.md",
-    "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md",
-    "docs/interview/vue 3/动态给vue的data添加一个新的属性时会发生什么？怎样解决？.md",
-    "docs/interview/vue 3/为什么data属性是一个函数而不是一个对象？.md",
-    "docs/interview/vue 3/SPA首屏加载速度慢的怎么解决？什么是首屏加载,加载慢的原因.md",
-    "docs/interview/vue 3/SPA.md",
-    "docs/interview/vue 3/为什么vue中的v-if和v-for不建议一起用，它们的优先级是什么？.md",
-    "docs/interview/vue 3/谈谈你对 Vue 3 中 v-if 和 v-show 的理解.md",
+    "docs/interview/vue 3/vue3有了解过吗？能说说跟vue2的区别吗？.md",
+    "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md",
+    "docs/interview/vue 3/你是怎么处理vue项目中的错误的？.md",
+    "docs/interview/vue 3/vue项目本地开发完成后部署到服务器后报404是什么原因呢？.md",
+    "docs/interview/vue 3/Vue项目中你是如何解决跨域的呢？.md",
+    "docs/interview/vue 3/vue要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？.md",
+    "docs/interview/vue 3/说下你的vue项目的目录结构，如果是大型项目你该怎么划分结构和划分组件呢？.md",
+    "docs/interview/vue 3/SSR解决了什么问题？有做过SSR吗？你是怎么做的.md",
+    "docs/interview/vue 3/你了解axios的原理吗？有看过它的源码吗？.md",
+    "docs/interview/vue 3/Vue项目中有封装过axios吗？主要是封装哪方面的？.md",
+    "docs/interview/vue 3/你了解vue的diff算法吗？说说看.md",
+    "docs/interview/vue 3/什么是虚拟DOM？如何实现一个虚拟DOM？说说你的思路.md",
+    "docs/interview/vue 3/Vue中的过滤器了解吗？过滤器的应用场景有哪些？.md",
     "docs/interview/vue 3/请描述下你对vue生命周期的理解？在created和mounted这两个生命周期中请求数据有什么区别呢？.md",
-    "docs/interview/vue 3/Vue实例挂载的过程.md",
-    "docs/interview/vue 3/Vue3 和 Vue2 代理的区别、优势.md",
-    "docs/interview/vue 3/Vue 中 nextTick 的实现原理.md",
-    "docs/interview/v-if和v-for的优先级是什么？.md",
+    "docs/interview/vue 3/你有写过自定义指令吗？自定义指令的应用场景有哪些？.md",
+    "docs/interview/vue 3/Vue常用的修饰符有哪些有什么应用场景.md",
+    "docs/interview/vue 3/说说你对keep-alive的理解是什么？.md",
+    "docs/interview/vue 3/你知道vue中key的原理吗？说说你对它的理解.md",
+    "docs/interview/vue 3/Vue.observable你有了解过吗？说说看.md",
     "docs/interview/未命名.md",
-    "docs/Knowledge/Vue 3/如何设计一个 UI 组件库.md",
-    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
-    "docs/Study Schedule/Vue 3/Vue 3.md",
-    "docs/interview/vue 3/说说你对vue的理解.md",
-    "docs/interview/vue 3/0 - vue 3.md",
-    "docs/Knowledge/Axios/Axios.md",
-    "docs/Knowledge/Vue 3/SPA.md",
-    "docs/Knowledge/Vue 3/vue 是什么.md",
-    "docs/Knowledge/Vue 3/路由懒加载的简单原理.md",
-    "docs/Knowledge/Vue 3/生命周期.md",
-    "docs/Knowledge/Vue 3/自定义指令.md",
-    "docs/Knowledge/Vue 3/Vue 中 nextTick 的实现原理是什么.md",
+    "docs/interview/vue 3/说说你对slot的理解？slot使用场景有哪些？.md",
+    "docs/interview/vue 3/说说你对vue的mixin的理解，有什么应用场景？.md",
+    "docs/interview/vue 3/Vue中的$nextTick有什么作用？.md",
+    "docs/interview/vue 3/双向数据绑定是什么.md",
+    "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md",
+    "docs/interview/vue 3/Vue中组件和插件有什么区别？.md",
     "未命名",
     "未命名 2.canvas",
     "未命名 1.canvas",
