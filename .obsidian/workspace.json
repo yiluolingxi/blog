@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md",
+                "file": "docs/interview/vue 3/Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#region是什么",
+                "query": "tag:#总结",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md",
+                "file": "docs/interview/vue 3/Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md",
+                "file": "docs/interview/vue 3/Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md"
+                "file": "docs/interview/vue 3/Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？.md"
               }
             }
           }
@@ -158,8 +158,10 @@
   },
   "active": "933ee59bd6ffe9d2",
   "lastOpenFiles": [
-    "docs/interview/vue 3/vue3有了解过吗？能说说跟vue2的区别吗？.md",
+    "docs/interview/vue 3/Vue3.0性能提升主要是通过哪几方面体现的？.md",
+    "docs/interview/vue 3/Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？.md",
     "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md",
+    "docs/interview/vue 3/vue3有了解过吗？能说说跟vue2的区别吗？.md",
     "docs/interview/vue 3/你是怎么处理vue项目中的错误的？.md",
     "docs/interview/vue 3/vue项目本地开发完成后部署到服务器后报404是什么原因呢？.md",
     "docs/interview/vue 3/Vue项目中你是如何解决跨域的呢？.md",
@@ -182,8 +184,6 @@
     "docs/interview/vue 3/说说你对vue的mixin的理解，有什么应用场景？.md",
     "docs/interview/vue 3/Vue中的$nextTick有什么作用？.md",
     "docs/interview/vue 3/双向数据绑定是什么.md",
-    "docs/interview/vue 3/Vue组件之间的通信方式都有哪些？.md",
-    "docs/interview/vue 3/Vue中组件和插件有什么区别？.md",
     "未命名",
     "未命名 2.canvas",
     "未命名 1.canvas",
