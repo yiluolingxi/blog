@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4aead86f56e7f87",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "933ee59bd6ffe9d2",
+  "active": "c4aead86f56e7f87",
   "lastOpenFiles": [
     "docs/interview/vue 3/Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？.md",
     "docs/interview/vue 3/说说你对vue的mixin的理解，有什么应用场景？.md",
