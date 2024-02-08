@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/interview/vue 3/Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？.md",
+                "file": "docs/Knowledge/Vue.js挑战/生命周期钩子.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "378b523b37f797ee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5,
+    "width": 292.5,
     "collapsed": true
   },
   "right": {
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/interview/vue 3/Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？.md",
+                "file": "docs/Knowledge/Vue.js挑战/生命周期钩子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/interview/vue 3/Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？.md",
+                "file": "docs/Knowledge/Vue.js挑战/生命周期钩子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/interview/vue 3/Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？.md"
+                "file": "docs/Knowledge/Vue.js挑战/生命周期钩子.md"
               }
             }
           }
@@ -156,11 +167,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "933ee59bd6ffe9d2",
+  "active": "378b523b37f797ee",
   "lastOpenFiles": [
+    "docs/Knowledge/Vue.js挑战/0 - Vue.js挑战.md",
+    "docs/Knowledge/Vue.js挑战/生命周期钩子.md",
+    "docs/Knowledge/Vue 3/Vue3 中的 router 实现原理.md",
+    "docs/Knowledge/Vue 3/0 - Vue 3.md",
+    "docs/Knowledge/Javascript/0 - Javascript.md",
+    "docs/Knowledge/读后感/0 - 读后感.md",
+    "docs/Knowledge/GitHub/0 - GitHub.md",
+    "docs/Knowledge/0 - Knowledge.md",
+    "docs/Knowledge/Vue.js挑战",
+    "docs/Knowledge/Vue.js挑战/未命名 1.md",
+    "docs/Knowledge/Vue.js挑战",
+    "docs/Knowledge/JSON.md",
+    "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 目录.md",
+    "docs/Knowledge/Vue.js挑战",
+    "docs/interview/vue 3/未命名",
+    "docs/interview/vue 3/Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？.md",
     "docs/interview/vue 3/Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？.md",
     "docs/interview/vue 3/说说你对vue的mixin的理解，有什么应用场景？.md",
-    "docs/interview/vue 3/Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？.md",
     "docs/interview/vue 3/Vue3.0性能提升主要是通过哪几方面体现的？.md",
     "docs/interview/vue 3/Vue3.0的设计目标是什么？做了哪些优化.md",
     "docs/interview/vue 3/vue3有了解过吗？能说说跟vue2的区别吗？.md",
@@ -173,17 +199,6 @@
     "docs/interview/vue 3/你了解axios的原理吗？有看过它的源码吗？.md",
     "docs/interview/vue 3/Vue项目中有封装过axios吗？主要是封装哪方面的？.md",
     "docs/interview/vue 3/你了解vue的diff算法吗？说说看.md",
-    "docs/interview/vue 3/什么是虚拟DOM？如何实现一个虚拟DOM？说说你的思路.md",
-    "docs/interview/vue 3/Vue中的过滤器了解吗？过滤器的应用场景有哪些？.md",
-    "docs/interview/vue 3/请描述下你对vue生命周期的理解？在created和mounted这两个生命周期中请求数据有什么区别呢？.md",
-    "docs/interview/vue 3/你有写过自定义指令吗？自定义指令的应用场景有哪些？.md",
-    "docs/interview/vue 3/Vue常用的修饰符有哪些有什么应用场景.md",
-    "docs/interview/vue 3/说说你对keep-alive的理解是什么？.md",
-    "docs/interview/vue 3/你知道vue中key的原理吗？说说你对它的理解.md",
-    "docs/interview/vue 3/Vue.observable你有了解过吗？说说看.md",
-    "docs/interview/未命名.md",
-    "docs/interview/vue 3/说说你对slot的理解？slot使用场景有哪些？.md",
-    "docs/interview/vue 3/Vue中的$nextTick有什么作用？.md",
     "未命名",
     "未命名 2.canvas",
     "未命名 1.canvas",
@@ -202,10 +217,6 @@
     "docs/Knowledge/Axios",
     "docs/Knowledge/Vue 3/Axios",
     "docker-compose.yaml",
-    "docs/assets/images/docker-compose.yaml",
-    "docs/Knowledge/Javascript",
-    "docs/Knowledge/读后感",
-    "node_modules/vitepress-plugin-search/node_modules/vite/bin/vite.js",
-    "node_modules/vitepress-plugin-search/node_modules/vite/bin/openChrome.applescript"
+    "docs/assets/images/docker-compose.yaml"
   ]
 }
