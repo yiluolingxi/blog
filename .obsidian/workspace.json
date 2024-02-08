@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/下一次DOM更新.md",
+                "file": "docs/Knowledge/Vue.js挑战/DOM传送门.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/下一次DOM更新.md",
+                "file": "docs/Knowledge/Vue.js挑战/DOM传送门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/下一次DOM更新.md",
+                "file": "docs/Knowledge/Vue.js挑战/DOM传送门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/下一次DOM更新.md"
+                "file": "docs/Knowledge/Vue.js挑战/DOM传送门.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "933ee59bd6ffe9d2",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue.js挑战/DOM传送门.md",
     "docs/Knowledge/Vue.js挑战/下一次DOM更新.md",
+    "docs/Knowledge/Vue.js挑战/DOM传送门.md",
     "docs/Knowledge/Vue.js挑战/生命周期钩子.md",
     "docs/Knowledge/Vue.js挑战/你好.md",
     "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
