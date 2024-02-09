@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/watch 全家桶.md",
+                "file": "docs/Knowledge/Vue.js挑战/依赖注入.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/watch 全家桶.md",
+                "file": "docs/Knowledge/Vue.js挑战/依赖注入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/watch 全家桶.md",
+                "file": "docs/Knowledge/Vue.js挑战/依赖注入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/watch 全家桶.md"
+                "file": "docs/Knowledge/Vue.js挑战/依赖注入.md"
               }
             }
           }
@@ -157,8 +157,10 @@
   },
   "active": "933ee59bd6ffe9d2",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue.js挑战/可写的计算属性.md",
+    "docs/Knowledge/Vue.js挑战/浅层 ref.md",
+    "docs/Knowledge/Vue.js挑战/依赖注入.md",
     "docs/Knowledge/Vue.js挑战/watch 全家桶.md",
+    "docs/Knowledge/Vue.js挑战/可写的计算属性.md",
     "docs/Knowledge/Vue.js挑战/未命名.md",
     "docs/Knowledge/Vue.js挑战/Prop验证.md",
     "docs/Knowledge/Vue.js挑战/大写.md",
@@ -185,8 +187,6 @@
     "docs/Knowledge/Vue.js挑战",
     "docs/interview/vue 3/未命名",
     "docs/interview/vue 3/Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？.md",
-    "docs/interview/vue 3/Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？.md",
-    "docs/interview/vue 3/说说你对vue的mixin的理解，有什么应用场景？.md",
     "未命名",
     "未命名 2.canvas",
     "未命名 1.canvas",
