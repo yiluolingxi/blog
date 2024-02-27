@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/Prop验证 （x）.md",
+                "file": "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/Prop验证 （x）.md",
+                "file": "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/Prop验证 （x）.md",
+                "file": "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/Prop验证 （x）.md"
+                "file": "docs/Knowledge/Vue.js挑战/优化性能的指令.md"
               }
             }
           }
@@ -157,29 +157,29 @@
   },
   "active": "933ee59bd6ffe9d2",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue.js挑战/ref 全家桶.md",
     "docs/Knowledge/Vue.js挑战/watch 全家桶.md",
-    "docs/Knowledge/Vue.js挑战/依赖注入.md",
-    "docs/Knowledge/Vue.js挑战/浅层 ref.md",
-    "docs/Knowledge/Vue.js挑战/可写的计算属性.md",
-    "docs/Knowledge/Vue.js挑战/未命名.md",
-    "docs/Knowledge/Vue.js挑战/Prop验证 （x）.md",
-    "docs/Knowledge/Vue.js挑战/大写.md",
-    "docs/Knowledge/Vue.js挑战/响应性丟失.md",
-    "docs/Knowledge/Vue.js挑战/0 - Vue.js挑战.md",
-    "docs/Knowledge/Vue.js挑战/阻止事件冒泡.md",
-    "docs/Knowledge/Vue.js挑战/动态CSS.md",
-    "docs/Knowledge/Vue.js挑战/DOM传送门.md",
+    "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
     "docs/Knowledge/Vue.js挑战/下一次DOM更新.md",
+    "docs/Knowledge/Vue.js挑战/响应性丟失.md",
+    "docs/Knowledge/Vue.js挑战/依赖注入.md",
+    "docs/Knowledge/Vue.js挑战/阻止事件冒泡.md",
+    "docs/Knowledge/Vue.js挑战/DOM传送门.md",
+    "docs/Knowledge/Vue.js挑战/Prop验证 （x）.md",
+    "docs/Knowledge/Vue.js挑战/ref 全家桶.md",
     "docs/Knowledge/Vue.js挑战/生命周期钩子.md",
+    "docs/Knowledge/Vue.js挑战/浅层 ref.md",
     "docs/Knowledge/Vue.js挑战/你好.md",
+    "docs/Knowledge/Vue.js挑战/可写的计算属性.md",
+    "docs/Knowledge/Vue.js挑战/动态CSS.md",
+    "docs/Knowledge/Vue.js挑战/大写.md",
+    "docs/Knowledge/Vue.js挑战/0 - Vue.js挑战.md",
+    "docs/Knowledge/0 - Knowledge.md",
     "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
     "docs/Knowledge/Vue 3/Vue3 中的 router 实现原理.md",
     "docs/Knowledge/Vue 3/0 - Vue 3.md",
     "docs/Knowledge/Javascript/0 - Javascript.md",
     "docs/Knowledge/读后感/0 - 读后感.md",
     "docs/Knowledge/GitHub/0 - GitHub.md",
-    "docs/Knowledge/0 - Knowledge.md",
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/JSON.md",
