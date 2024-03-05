@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/interview/面试截图/0 - 三年经验前端要价26k，JWT、前端内存监测、GraphQL，请不要将不熟悉内容放在简历中！.md",
+                "file": "docs/Knowledge/读后感/未整理远程工作.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/interview/面试截图/0 - 三年经验前端要价26k，JWT、前端内存监测、GraphQL，请不要将不熟悉内容放在简历中！.md",
+                "file": "docs/Knowledge/读后感/未整理远程工作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/interview/面试截图/0 - 三年经验前端要价26k，JWT、前端内存监测、GraphQL，请不要将不熟悉内容放在简历中！.md",
+                "file": "docs/Knowledge/读后感/未整理远程工作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/interview/面试截图/0 - 三年经验前端要价26k，JWT、前端内存监测、GraphQL，请不要将不熟悉内容放在简历中！.md"
+                "file": "docs/Knowledge/读后感/未整理远程工作.md"
               }
             }
           }
@@ -157,8 +157,10 @@
   },
   "active": "933ee59bd6ffe9d2",
   "lastOpenFiles": [
-    "docs/interview/vue 3/0 - vue 3.md",
+    "docs/Knowledge/读后感/书看完记不住，感觉记住了又说不出来怎么办.md",
+    "docs/Knowledge/读后感/未整理远程工作.md",
     "docs/interview/面试截图/0 - 三年经验前端要价26k，JWT、前端内存监测、GraphQL，请不要将不熟悉内容放在简历中！.md",
+    "docs/interview/vue 3/0 - vue 3.md",
     "docs/assets/Pasted image 20240304224353.png",
     "docs/assets/Pasted image 20240304224006.png",
     "docs/assets/Pasted image 20240304223916.png",
@@ -190,10 +192,8 @@
     "docs/Knowledge/Vue 3/0 - Vue 3.md",
     "docs/Knowledge/Javascript/0 - Javascript.md",
     "docs/Knowledge/读后感/0 - 读后感.md",
-    "docs/Knowledge/GitHub/0 - GitHub.md",
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/Vue.js挑战",
-    "docs/Knowledge/JSON.md",
     "docs/Knowledge/Vue.js挑战",
     "docs/interview/vue 3/未命名",
     "未命名",
