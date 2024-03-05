@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
+                "file": "docs/interview/面试截图/0 - 三年经验前端要价26k，JWT、前端内存监测、GraphQL，请不要将不熟悉内容放在简历中！.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 268.5
   },
   "right": {
     "id": "dae7debb72c3a821",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
+                "file": "docs/interview/面试截图/0 - 三年经验前端要价26k，JWT、前端内存监测、GraphQL，请不要将不熟悉内容放在简历中！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
+                "file": "docs/interview/面试截图/0 - 三年经验前端要价26k，JWT、前端内存监测、GraphQL，请不要将不熟悉内容放在简历中！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/优化性能的指令.md"
+                "file": "docs/interview/面试截图/0 - 三年经验前端要价26k，JWT、前端内存监测、GraphQL，请不要将不熟悉内容放在简历中！.md"
               }
             }
           }
@@ -157,8 +157,19 @@
   },
   "active": "933ee59bd6ffe9d2",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue.js挑战/watch 全家桶.md",
+    "docs/interview/vue 3/0 - vue 3.md",
+    "docs/interview/面试截图/0 - 三年经验前端要价26k，JWT、前端内存监测、GraphQL，请不要将不熟悉内容放在简历中！.md",
+    "docs/assets/Pasted image 20240304224353.png",
+    "docs/assets/Pasted image 20240304224006.png",
+    "docs/assets/Pasted image 20240304223916.png",
+    "docs/assets/Pasted image 20240304223818.png",
+    "docs/assets/Pasted image 20240304223525.png",
+    "docs/assets/Pasted image 20240304222931.png",
+    "docs/assets/Snipaste_2024-03-04_22-25-07.png",
+    "docs/assets/Snipaste_2024-03-04_22-24-25.png",
     "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
+    "docs/interview/面试截图",
+    "docs/Knowledge/Vue.js挑战/watch 全家桶.md",
     "docs/Knowledge/Vue.js挑战/下一次DOM更新.md",
     "docs/Knowledge/Vue.js挑战/响应性丟失.md",
     "docs/Knowledge/Vue.js挑战/依赖注入.md",
@@ -183,28 +194,17 @@
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/JSON.md",
-    "docs/Knowledge/Vue 2 + Vue 3 全家桶/Vue 目录.md",
     "docs/Knowledge/Vue.js挑战",
     "docs/interview/vue 3/未命名",
-    "docs/interview/vue 3/Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？.md",
     "未命名",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "docs/assets/images/Pasted image 20230425181101.png",
     "docs/assets/images/Pasted image 20230425155336.png",
-    "docs/assets/images/Pasted image 20230425151817.png",
-    "Pasted image 20230429151930.png",
-    "docs/assets/Pasted image 20230926184411.png",
-    "docs/assets/Pasted image 20230926182509.png",
-    "docs/assets/Pasted image 20230926182240.png",
-    "docs/assets/Pasted image 20230926182109.png",
-    "docs/assets/Pasted image 20230926181818.png",
-    "docs/assets/Pasted image 20230926181525.png",
     "未命名.canvas",
     "docs/Knowledge/Vue 2 + Vue 3 全家桶",
     "docs/Knowledge/Axios",
     "docs/Knowledge/Vue 3/Axios",
-    "docker-compose.yaml",
-    "docs/assets/images/docker-compose.yaml"
+    "docker-compose.yaml"
   ]
 }
