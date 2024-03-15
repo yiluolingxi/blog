@@ -23,9 +23,11 @@
             "id": "de0cc84d398d9a1e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "docs/区块链/区块链技术与应用.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "dae7debb72c3a821",
@@ -104,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
+                "file": "docs/区块链/区块链技术与应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
+                "file": "docs/区块链/区块链技术与应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md"
+                "file": "docs/区块链/区块链技术与应用.md"
               }
             }
           }
@@ -166,10 +169,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "de0cc84d398d9a1e",
+  "active": "b517b61784ba0553",
   "lastOpenFiles": [
-    "docs/区块链/0 - 区块链.md",
+    "docs/assets/Pasted image 20240315124255.png",
+    "docs/assets/Pasted image 20240315124102.png",
+    "docs/assets/Pasted image 20240315124025.png",
+    "docs/assets/Pasted image 20240315123549.png",
     "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
+    "docs/区块链/0 - 区块链.md",
+    "docs/计算机基础数据结构和算法/计算机科学中基础数据结构和算法的简明指南.md",
+    "docs/计算机基础数据结构和算法/0 - 技术机基础数据结构和算法.md",
+    "docs/区块链/区块链技术与应用.md",
+    "docs/计算机基础数据结构和算法",
+    "docs/assets/Pasted image 20240315114916.png",
+    "docs/assets/Pasted image 20240315113818.png",
     "docs/Knowledge/Vue.js挑战/切换器.md",
     "docs/区块链",
     "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
@@ -189,9 +202,6 @@
     "docs/assets/Pasted image 20240304223916.png",
     "docs/assets/Pasted image 20240304223818.png",
     "docs/assets/Pasted image 20240304223525.png",
-    "docs/assets/Pasted image 20240304222931.png",
-    "docs/assets/Snipaste_2024-03-04_22-25-07.png",
-    "docs/assets/Snipaste_2024-03-04_22-24-25.png",
     "docs/interview/面试截图",
     "docs/Knowledge/Vue.js挑战/下一次DOM更新.md",
     "docs/Knowledge/Vue.js挑战/响应性丟失.md",
@@ -200,10 +210,6 @@
     "docs/Knowledge/Vue.js挑战/生命周期钩子.md",
     "docs/Knowledge/Vue.js挑战/浅层 ref.md",
     "docs/Knowledge/Vue.js挑战/你好.md",
-    "docs/Knowledge/Vue.js挑战/可写的计算属性.md",
-    "docs/Knowledge/Vue.js挑战/动态CSS.md",
-    "docs/Knowledge/Vue.js挑战/0 - Vue.js挑战.md",
-    "docs/Knowledge/0 - Knowledge.md",
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/Vue.js挑战",
@@ -211,11 +217,8 @@
     "未命名",
     "未命名 2.canvas",
     "未命名 1.canvas",
-    "docs/assets/images/Pasted image 20230425181101.png",
-    "docs/assets/images/Pasted image 20230425155336.png",
     "未命名.canvas",
     "docs/Knowledge/Vue 2 + Vue 3 全家桶",
-    "docs/Knowledge/Axios",
-    "docs/Knowledge/Vue 3/Axios"
+    "docs/Knowledge/Axios"
   ]
 }
