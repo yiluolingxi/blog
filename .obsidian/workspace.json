@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/切换器.md",
+                "file": "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "de0cc84d398d9a1e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/切换器.md",
+                "file": "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/切换器.md",
+                "file": "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Knowledge/Vue.js挑战/切换器.md"
+                "file": "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md"
               }
             }
           }
@@ -155,10 +166,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "933ee59bd6ffe9d2",
+  "active": "de0cc84d398d9a1e",
   "lastOpenFiles": [
-    "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
+    "docs/区块链/0 - 区块链.md",
+    "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
     "docs/Knowledge/Vue.js挑战/切换器.md",
+    "docs/区块链",
+    "docs/Knowledge/Vue.js挑战/优化性能的指令.md",
     "docs/Knowledge/Vue.js挑战/大写.md",
     "docs/Knowledge/Vue.js挑战/DOM传送门.md",
     "docs/Knowledge/Vue.js挑战/Prop验证 （x）.md",
@@ -190,8 +204,6 @@
     "docs/Knowledge/Vue.js挑战/动态CSS.md",
     "docs/Knowledge/Vue.js挑战/0 - Vue.js挑战.md",
     "docs/Knowledge/0 - Knowledge.md",
-    "docs/Knowledge/Vue 3/Vue实例挂载的过程中发生了什么.md",
-    "docs/Knowledge/Vue 3/Vue3 中的 router 实现原理.md",
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/Vue.js挑战",
@@ -204,7 +216,6 @@
     "未命名.canvas",
     "docs/Knowledge/Vue 2 + Vue 3 全家桶",
     "docs/Knowledge/Axios",
-    "docs/Knowledge/Vue 3/Axios",
-    "docker-compose.yaml"
+    "docs/Knowledge/Vue 3/Axios"
   ]
 }
