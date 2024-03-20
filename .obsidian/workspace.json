@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/区块链/区块链技术与应用 未整理.md",
+                "file": "docs/区块链/区块链技术与应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/区块链/区块链技术与应用 未整理.md",
+                "file": "docs/区块链/区块链技术与应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/区块链/区块链技术与应用 未整理.md"
+                "file": "docs/区块链/区块链技术与应用.md"
               }
             }
           }
@@ -181,13 +181,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "de0cc84d398d9a1e",
+  "active": "a2c24dc8a78c7142",
   "lastOpenFiles": [
-    "docs/区块链/区块链技术与应用.md",
     "docs/区块链/区块链技术与应用 未整理.md",
+    "docs/区块链/区块链技术与应用.md",
     "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
-    "docs/区块链/0 - 区块链.md",
     "docs/interview/vue 3/动态给vue的data添加一个新的属性时会发生什么？怎样解决？.md",
+    "docs/区块链/0 - 区块链.md",
     "docs/assets/Pasted image 20240317131630.png",
     "docs/assets/Pasted image 20240317131255.png",
     "docs/assets/Pasted image 20240317130659.png",
