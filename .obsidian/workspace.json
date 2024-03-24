@@ -4,47 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "1feba39dd2ab9605",
-        "type": "tabs",
+        "id": "bc0aac3cb26fb09d",
+        "type": "split",
         "children": [
           {
-            "id": "933ee59bd6ffe9d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
-                "mode": "source",
-                "source": false
+            "id": "56483b579e3375ab",
+            "type": "tabs",
+            "dimension": 23.364485981308412,
+            "children": [
+              {
+                "id": "48094ed689e63a22",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/区块链/区块链技术与应用 未整理.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "de0cc84d398d9a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/区块链/区块链技术与应用 未整理.md",
-                "mode": "source",
-                "source": false
+            "id": "1feba39dd2ab9605",
+            "type": "tabs",
+            "dimension": 76.63551401869158,
+            "children": [
+              {
+                "id": "de0cc84d398d9a1e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/区块链/区块链技术与应用.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "a2c24dc8a78c7142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/区块链/区块链技术与应用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -181,23 +183,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a2c24dc8a78c7142",
+  "active": "de0cc84d398d9a1e",
   "lastOpenFiles": [
+    "docs/assets/Pasted image 20240324152259.png",
+    "docs/assets/Pasted image 20240324152128.png",
+    "docs/assets/Pasted image 20240324152043.png",
+    "docs/assets/Pasted image 20240324151912.png",
+    "docs/assets/Pasted image 20240324151838.png",
+    "docs/assets/Pasted image 20240324151734.png",
+    "docs/assets/Pasted image 20240324151705.png",
+    "docs/assets/Pasted image 20240324151550.png",
+    "docs/assets/Pasted image 20240324151432.png",
+    "docs/assets/Pasted image 20240324151150.png",
+    "docs/assets/Pasted image 20240324150241.png",
     "docs/区块链/区块链技术与应用 未整理.md",
     "docs/区块链/区块链技术与应用.md",
     "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
     "docs/interview/vue 3/动态给vue的data添加一个新的属性时会发生什么？怎样解决？.md",
     "docs/区块链/0 - 区块链.md",
-    "docs/assets/Pasted image 20240317131630.png",
-    "docs/assets/Pasted image 20240317131255.png",
-    "docs/assets/Pasted image 20240317130659.png",
-    "docs/assets/Pasted image 20240317130617.png",
-    "docs/assets/Pasted image 20240317130335.png",
-    "docs/assets/Pasted image 20240317130323.png",
-    "docs/assets/Pasted image 20240317125859.png",
-    "docs/assets/Pasted image 20240317124215.png",
-    "docs/assets/Pasted image 20240317124128.png",
-    "docs/assets/Pasted image 20240317123602.png",
     "docs/计算机基础数据结构和算法/计算机科学中基础数据结构和算法的简明指南.md",
     "docs/计算机基础数据结构和算法/0 - 技术机基础数据结构和算法.md",
     "docs/计算机基础数据结构和算法",
@@ -221,7 +224,6 @@
     "docs/Knowledge/Vue.js挑战/依赖注入.md",
     "docs/Knowledge/Vue.js挑战/阻止事件冒泡.md",
     "docs/Knowledge/Vue.js挑战/生命周期钩子.md",
-    "docs/Knowledge/Vue.js挑战/浅层 ref.md",
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/Vue.js挑战",
     "docs/Knowledge/Vue.js挑战",
