@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/区块链/区块链技术与应用 未整理.md",
+                "file": "docs/区块链/区块链技术与应用第一版.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/区块链/区块链技术与应用 未整理.md",
+                "file": "docs/区块链/区块链技术与应用第一版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/区块链/区块链技术与应用 未整理.md",
+                "file": "docs/区块链/区块链技术与应用第一版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,17 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/区块链/区块链技术与应用 未整理.md"
+                "file": "docs/区块链/区块链技术与应用第一版.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,8 @@
   },
   "active": "48094ed689e63a22",
   "lastOpenFiles": [
-    "docs/区块链/区块链技术与应用.md",
     "docs/区块链/区块链技术与应用 未整理.md",
+    "docs/区块链/区块链技术与应用第一版.md",
     "docs/assets/Pasted image 20240324152259.png",
     "docs/assets/Pasted image 20240324152128.png",
     "docs/assets/Pasted image 20240324152043.png",
