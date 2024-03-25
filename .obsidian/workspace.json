@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc0aac3cb26fb09d",
-        "type": "split",
+        "id": "56483b579e3375ab",
+        "type": "tabs",
         "children": [
           {
-            "id": "56483b579e3375ab",
-            "type": "tabs",
-            "dimension": 23.364485981308412,
-            "children": [
-              {
-                "id": "48094ed689e63a22",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "docs/区块链/区块链技术与应用 未整理.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "48094ed689e63a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/区块链/区块链技术与应用 未整理.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "1feba39dd2ab9605",
-            "type": "tabs",
-            "dimension": 76.63551401869158,
-            "children": [
-              {
-                "id": "de0cc84d398d9a1e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "docs/区块链/区块链技术与应用.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/区块链/区块链技术与应用.md",
+                "file": "docs/区块链/区块链技术与应用 未整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/区块链/区块链技术与应用.md",
+                "file": "docs/区块链/区块链技术与应用 未整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/区块链/区块链技术与应用.md"
+                "file": "docs/区块链/区块链技术与应用 未整理.md"
               }
             }
           }
@@ -183,8 +156,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "de0cc84d398d9a1e",
+  "active": "48094ed689e63a22",
   "lastOpenFiles": [
+    "docs/区块链/区块链技术与应用.md",
+    "docs/区块链/区块链技术与应用 未整理.md",
     "docs/assets/Pasted image 20240324152259.png",
     "docs/assets/Pasted image 20240324152128.png",
     "docs/assets/Pasted image 20240324152043.png",
@@ -195,9 +170,6 @@
     "docs/assets/Pasted image 20240324151550.png",
     "docs/assets/Pasted image 20240324151432.png",
     "docs/assets/Pasted image 20240324151150.png",
-    "docs/assets/Pasted image 20240324150241.png",
-    "docs/区块链/区块链技术与应用 未整理.md",
-    "docs/区块链/区块链技术与应用.md",
     "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
     "docs/interview/vue 3/动态给vue的data添加一个新的属性时会发生什么？怎样解决？.md",
     "docs/区块链/0 - 区块链.md",
