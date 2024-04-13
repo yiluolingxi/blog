@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +157,13 @@
   },
   "active": "48094ed689e63a22",
   "lastOpenFiles": [
+    "docs/assets/Pasted image 20240413115934.png",
+    "docs/assets/Pasted image 20240413105108.png",
+    "docs/assets/Pasted image 20240413104247.png",
+    "docs/assets/Pasted image 20240413103923.png",
+    "docs/assets/Pasted image 20240413103826.png",
+    "docs/assets/Pasted image 20240413094828.png",
+    "docs/assets/Pasted image 20240413094236.png",
     "docs/区块链/区块链技术与应用 未整理.md",
     "docs/区块链/崔棉大师90分钟讲解区块链基础知识.md",
     "docs/区块链/区块链技术与应用第一版.md",
@@ -164,12 +171,6 @@
     "docs/assets/Pasted image 20240409202503.png",
     "docs/assets/Pasted image 20240409135217.png",
     "docs/assets/Pasted image 20240409133736.png",
-    "docs/assets/Pasted image 20240409132900.png",
-    "docs/assets/Pasted image 20240406172924.png",
-    "docs/assets/Pasted image 20240406170715.png",
-    "docs/assets/Pasted image 20240405171401.png",
-    "docs/assets/Pasted image 20240405162028.png",
-    "docs/assets/Pasted image 20240405161436.png",
     "docs/区块链/Hash function.md",
     "docs/interview/vue 3/动态给vue的data添加一个新的属性时会发生什么？怎样解决？.md",
     "docs/区块链/0 - 区块链.md",
