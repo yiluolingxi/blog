@@ -88,5 +88,28 @@ const Square = function() {
 
 在具名函数中，函数的名称标识符是 "Square"；而在匿名函数中，函数没有名称，但可以将其分配给变量（在示例中是 `Square`），以便后续引用。  
 
+#### `<>` 和 `</>`
+Fragments  ：to wrap multiple adjacent JSX elements  
+
+```
+export default function Square() {  
+
+return (  
+
+<>  
+
+<button className="square">X</button>  
+
+<button className="square">X</button>  
+
+</>  
+
+);  
+
+}
+```
+
+#### div
+
 
 
