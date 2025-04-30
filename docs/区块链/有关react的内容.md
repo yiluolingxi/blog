@@ -113,3 +113,93 @@ return (
 
 
 
+### 函数组件
+
+在React中，函数组件是一种定义组件的方式。函数组件是一个接受props并返回React元素的普通JavaScript函数。函数组件是无状态的，不使用`this`关键字。  
+```jsx
+function Welcome(props) {
+    return <h1>Hello, {props.name}</h1>;
+}
+
+```
+
+你可以在父组件中使用这个函数组件：
+
+```jsx
+function App() {
+    return <Welcome name="Alice" />;
+}
+
+```
+
+### 函数引用
+
+在React中，函数引用通常用于事件处理器和回调函数。你可以将一个函数引用传递给一个组件的事件属性，当事件触发时调用这个函数。例如：
+```jsx
+function handleClick() {
+    alert('Button was clicked!');
+}
+
+function App() {
+    return <button onClick={handleClick}>Click me</button>;
+}
+
+```
+在这个例子中，`handleClick`函数被作为引用传递给`button`元素的`onClick`属性。当按钮被点击时，React会调用`handleClick`函数
+
+### 在代码中运行
+
+React中的函数运行过程如下：
+
+1. **函数组件**：当React渲染函数组件时，它会调用该函数，将`props`传递给它，并使用函数的返回值（React元素）来更新UI。
+```jsx
+function Welcome(props) {
+    return <h1>Hello, {props.name}</h1>;
+}
+
+function App() {
+    return <Welcome name="Alice" />;
+}
+
+```
+
+
+2. **事件处理器**：当某个事件触发时，例如用户点击按钮，React会调用传递给事件处理属性的函数引用。
+```jsx
+function handleClick() {
+    alert('Button was clicked!');
+}
+
+function App() {
+    return <button onClick={handleClick}>Click me</button>;
+}
+
+```
+ 
+3. **回调函数**：在一些情况下，你需要将一个函数作为参数传递给子组件，以便在某些条件下调用。例如，表单提交时调用父组件的函数。
+```jsx
+function Form({ onSubmit }) {
+    return (
+        <form onSubmit={onSubmit}>
+            <button type="submit">Submit</button>
+        </form>
+    );
+}
+
+function App() {
+    function handleSubmit(event) {
+        event.preventDefault();
+        console.log('Form submitted');
+    }
+    
+    return <Form onSubmit={handleSubmit} />;
+}
+
+```
+
+在这个例子中，`handleSubmit`函数被作为引用传递给`Form`组件的`onSubmit`属性。当表单提交时，`handleSubmit`函数会被调用。
+
+### 总结
+
+在React中，函数组件用于定义无状态的组件，而函数引用通常用于事件处理器和回调函数。函数组件和函数引用在React中都是通过传递函数名（引用）来运行的，当对应的事件或条件触发时，React会调用这些函数。
+
