@@ -283,3 +283,5 @@
 
 - ​**​方向​**​：AI生成NFT、链上数据分析。
 - ​**​风险​**​：算法偏见可能加剧市场操纵。
+
+[Binance Research: Key Trends in Crypto – April 2025 | Binance Blog on Binance Square](https://www.binance.com/en/square/post/22626973895393)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/web3招聘技能树/Web3.md",
+                "file": "docs/web3招聘技能树/Web3 Frontend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web3"
+              "title": "Web3 Frontend"
             }
           }
         ]
@@ -176,10 +176,10 @@
   },
   "active": "33356f13c7a731e6",
   "lastOpenFiles": [
-    "docs/web 3/未命名 2.md",
-    "docs/web3招聘技能树/plan.md",
     "docs/web3招聘技能树/Web3.md",
     "docs/web3招聘技能树/Web3 Frontend.md",
+    "docs/web3招聘技能树/plan.md",
+    "docs/web 3/未命名 2.md",
     "docs/web3招聘技能树/福州.md",
     "docs/web 3/还未整理.md",
     "docs/web3招聘技能树/技能.md",
