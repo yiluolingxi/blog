@@ -10,6 +10,8 @@ Dune无法直接追踪代码开源性，需手动验证GitHub仓库
 **多维度交叉验证**
 结合链上数据（Dune）+代码活跃度（GitHub）+社区讨论（Discord/Twitter）或外部榜单（如 DappRadar）
 
+Telegram群组、Discord频道、设置Google Alerts以便实时接收有关Web3的关键字更新。
+
 方法1：
 **搜索词汇**
 **技术栈相关**：`web3`, `blockchain`, `ethereum`, `solidity`, `rust`, `substrate`, `ipfs`, `nft`, `defi`, `dao`, `smart contract`, `dapp`
@@ -906,3 +908,9 @@ Geographic Scope: this research focus globally
 Industry Segments: there particular Web3 segments i want to emphasize, such as DeFi, NFTs, DAOs, L2s, Web3 gaming, SocialFi, or infrastructure
 Intended Audience: developers
 Preferred Report Depth: a deep-dive analysis with extensive charts and technical breakdowns
+
+研究目标是想要了解技术进展、市场趋势以及特定应用案例，最终的目的是找到靠谱的项目参与代码开发。
+研究的地理范围：国际
+时间：近半年来
+IEEE, ACM分别是什么，在哪里查看？
+可以在哪里获取Gartner, IDC, Deloitte等知名咨询公司的Web3相关报告？
