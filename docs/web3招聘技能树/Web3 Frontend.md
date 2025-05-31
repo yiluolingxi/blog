@@ -913,4 +913,16 @@ Preferred Report Depth: a deep-dive analysis with extensive charts and technical
 研究的地理范围：国际
 时间：近半年来
 IEEE, ACM分别是什么，在哪里查看？
+如何查阅顶级学术期刊和会议论文？
 可以在哪里获取Gartner, IDC, Deloitte等知名咨询公司的Web3相关报告？
+如何关注Reddit, Twitter, LinkedIn，特别是由行业领袖、开发者社区和项目团队维护的账号？
+如何订阅Coindesk, Cointelegraph这样的加密货币和区块链新闻网站？
+对收集的数据进行量化分析，如何统计热门话题出现的频率？
+文本挖掘工具是什么？如何使用文本挖掘工具对非结构化数据（如论坛帖子、博客文章）进行分析，识别关键词和主题趋势？
+如何设置Google Alerts，以便实时接收有关Web3的关键字更新？
+如何加入相关的Telegram群组、Discord频道等，实时跟踪社区动态？
+
+Web3领域最新新闻的传播渠道有哪些？
+有哪些具体工具可以分析Web3数据？
+如何选择权威的Web3专家访谈对象？
+有哪些具体关键词适合搜索Web3学术成果？
