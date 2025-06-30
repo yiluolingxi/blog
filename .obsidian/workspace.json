@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/web 3/复盘 计划 寻找信息途径.md",
+                "file": "docs/web 3/提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "复盘 计划 寻找信息途径"
+              "title": "提示词"
             }
           }
         ]
@@ -179,8 +179,11 @@
   },
   "active": "33356f13c7a731e6",
   "lastOpenFiles": [
-    "docs/web 3/git 命令行.md",
+    "docs/assets/Pasted image 20250630211014.png",
     "docs/web 3/复盘 计划 寻找信息途径.md",
+    "docs/web 3/提示词.md",
+    "docs/assets/Pasted image 20250630210503.png",
+    "docs/web 3/git 命令行.md",
     "docs/web 3/React 项目中的文件结构与资源管理.md",
     "docs/web 3/wechat 小程序.md",
     "docs/web 3/还未整理.md",
@@ -213,15 +216,12 @@
     "未命名 1.canvas",
     "未命名.canvas",
     "Pasted image 20230429151726.png",
-    "Pasted image 20230429151930.png",
     "README.md",
     "docs/web 3/30分钟，react核心语法/未命名.md",
     "docs/web 3/30分钟，react核心语法",
     "docs/web3招聘技能树",
     "docs/Study Schedule/Vue 3/0 - Vue 3.md",
     "docs/web 3",
-    "docs/区块链/React Hooks.md",
-    "docs/科学上网.md",
     "docs/interview/react 山月/0 - react 山月/未命名",
     "docs/interview/react 山月/0 - react 山月",
     "docs/interview/react 山月",
