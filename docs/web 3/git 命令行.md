@@ -1,3 +1,68 @@
+### **分支命名规范（主流策略）​**​ 
+
+#### ​**​1. 核心前缀 + 描述（全小写，短横线连接）​**​
+
+|​**​分支类型​**​|​**​命名格式​**​|​**​示例​**​|​**​生命周期​**​|
+|---|---|---|---|
+|功能开发分支|`feature/[功能描述]`|`feature/user-auth`|合并后删除|
+|缺陷修复分支|`bugfix/[问题简述]`|`bugfix/login-timeout`|修复后删除|
+|紧急热修复分支|`hotfix/[问题简述]`|`hotfix/payment-error`|生产修复后删除|
+|版本预发布分支|`release/[语义化版本号]`|`release/v1.2.0`|版本发布后保留|
+|实验性分支|`experiment/[实验内容]`|`experiment/new-ui`|根据结果决定保留与否|
+|文档分支|`docs/[修改内容]`|`docs/api-refactor`|合并后删除|
+#### ​**​2. 关键原则​**
+#### **关键原则​**​
+
+- ​**​前缀统一性​**​：优先使用 `feature/` 而非缩写 `feat/`（避免歧义）
+- ​**​语义关联​**​：集成任务追踪系统（如 Jira）
+```bash
+git checkout -b feature/PROJ-123-search-optimization  # 关联问题ID
+```
+- **​避免冗余​**​：禁用特殊字符（`@`、`#`）、空格或大写字母
+
+### ​**​二、提交信息规范（Conventional Commits）**
+#### **1. 结构化格式​**
+```plaintext
+<类型>(<作用域>): <主题>
+<空行>
+<正文>
+<空行>
+<页脚>  # 关联Issue或PR
+```
+**示例​**​：
+```bash
+git commit -m "feat(auth): add OAuth2 support" \
+-m "- Implement Google & GitHub OAuth" \
+-m "- Add token refresh mechanism" \
+-m "Closes #123, Refs #45"
+```
+### **完整提交信息效果​**​
+
+在 Git 历史或 PR 中会显示为：
+```
+feat(auth): add OAuth2 support
+
+- Implement Google & GitHub OAuth
+- Add token refresh mechanism
+
+Closes #123, Refs #45
+```
+
+###  ​**​为何这样写？​**​
+
+#### ​**​1. 标准化优势​**​
+
+- ​**​自动化生成变更日志​**​（如 `standard-version` 工具）
+- ​**​快速定位历史修改​**​（通过 `git log --grep="feat(auth)"`）
+- ​**​触发语义化版本升级​**​（`feat` → 次版本号+1）
+
+#### ​**​2. 团队协作价值​**​
+
+- ​**​清晰的作用域​**​：`(auth)` 让团队知道影响范围
+- ​**​任务可追溯性​**​：通过 `#123` 直接跳转到原始需求
+- ​**​代码审查效率​**​：正文详细说明减少沟通成本
+
+
 ### Git 常用命令行详解
 
 Git 命令按功能分为以下类别，覆盖日常开发全流程：
@@ -185,4 +250,56 @@ git push origin main               # 推送到 main 分支（原 master）
 > - 结合 GitHub Actions 实现 CI/CD（免费配额支持自动化测试/部署）。
 
 此指南覆盖从环境搭建到高效协作的全流程，严格遵循最新安全标准和开发实践。建议定期执行 `git update-git-for-windows` 保持工具更新。
->  
+
+
+
+### 一、个人项目的分支策略
+
+1. ​**​简单项目（推荐方案）​**​
+    
+    - 直接使用 `main` 分支开发
+    - 每次修改后提交：
+    
+    `git add . git commit -m "feat: 实现用户登录功能" git push origin main`
+    
+    - ​**​优势​**​：简单直接，适合小型项目或实验性代码
+2. ​**​中等复杂度项目​**​
+    
+    - 保留 `main` 分支作为稳定版本
+    - 创建 `dev` 分支用于日常开发：
+    
+    `git checkout -b dev # 进行开发后... git checkout main git merge dev`
+    
+
+### 二、修改定位方案（无分支时）
+
+即使只有 `main` 分支，仍可通过以下方式精确定位修改：
+
+1. ​**​提交哈希值定位​**​
+    
+    `git log --oneline # 输出示例：a1b2c3d feat: 添加用户模块 git show a1b2c3d`
+    
+2. ​**​按时间范围查询​**​
+    
+    `git log --since="2024-07-01" --until="2024-07-20"`
+    
+3. ​**​文件修改历史​**​
+    
+    `git log -p src/user.js  # 查看指定文件变更历史`
+    
+4. ​**​关键词搜索​**​
+    
+    `git log --grep="登录"  # 搜索包含"登录"的提交`
+### 实用技巧
+
+1. ​**​临时保存修改​**​
+    
+    `git stash  # 保存当前修改 git stash pop  # 恢复修改`
+    
+2. ​**​修改最后一次提交​**​
+    
+    `git add . git commit --amend  # 修改提交信息或内容`
+    
+3. ​**​后悔药机制​**​
+    
+    `git reflog  # 查看所有操作记录 git reset --hard [commit-hash]  # 回退到指定状态`
