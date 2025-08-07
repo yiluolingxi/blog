@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/web 3/Frontend.md",
+                "file": "docs/web 3/40 remote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontend"
+              "title": "40 remote"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -71,7 +71,7 @@
               "type": "starred",
               "state": {},
               "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -169,17 +169,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "33356f13c7a731e6",
   "lastOpenFiles": [
     "docs/web 3/调研.md",
+    "docs/web 3/40 remote.md",
+    "docs/科学上网.md",
+    "docs/web3招聘技能树/web3里程碑及计划.md",
+    "docs/web 3/合集·【Cursor编程 101】37个视频，学+实践.md",
     "docs/web 3/Frontend.md",
     "docs/web 3/分析2.md",
     "docs/web 3/分析.md",
@@ -202,20 +206,16 @@
     "docs/assets/Pasted image 20250705130415.png",
     "docs/web 3/复盘.md",
     "docs/web 3/还未整理.md",
-    "docs/web 3/合集·【Cursor编程 101】37个视频，学+实践.md",
     "docs/web 3/wechat 小程序.md",
     "docs/web 3/2025.7.1.pm-Plan.md",
     "docs/web 3/未命名 2.md",
     "docs/web 3/未命名",
     "docs/web3招聘技能树/Web3 Frontend.md",
-    "docs/web3招聘技能树/web3里程碑及计划.md",
     "docs/web3招聘技能树/plan.md",
     "docs/web3招聘技能树/Web3.md",
     "docs/Q & A/vue 3/在 Vue 3 中，如何定义一个组件.md",
     "docs/web3招聘技能树/技能.md",
     "docs/web 3/0 - react进阶.md",
-    "docs/web 3/具体见示意图：.md",
-    "docs/interview/react 山月/react 面试题.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
