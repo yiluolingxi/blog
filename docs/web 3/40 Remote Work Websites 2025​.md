@@ -167,4 +167,22 @@ Putting it all together, here’s a (general) ranking of the **top platforms fro
     
 - **Use Strategy**: For best results, job seekers often combine top boards (like FlexJobs, We Work Remotely, Remote OK) plus niche ones aligned to their tech stack or region.
 
+| 一级分类   | 二级字段                   | 说明                      |
+| ------ | ---------------------- | ----------------------- |
+| 职位基础信息 | job_title              | 职位名称（如“后端开发工程师”）        |
+|        | company_name           | 公司全称                    |
+|        | publish_time           | 发布日期（如“2024-03-15”）     |
+| 薪资福利   | salary_range           | 月薪范围（如“15k-30k”）        |
+|        | benefits               | 福利标签（如“五险一金”“年终奖”）      |
+| 工作信息   | work_location          | 工作地点（如“上海·浦东新区”）        |
+|        | experience_requirement | 经验要求（如“3-5年”）           |
+|        | education_requirement  | 学历要求（如“本科及以上”）          |
+| 技能与职责  | skills_required        | 技能关键词（如“Python”“MySQL”） |
+|        | job_description        | 职责描述（长文本）               |
+
+帮我写个python的爬虫软件， 需要可视化界面  
+1. 访问 @https://web3.career/front-end+remote-jobs ，得到页面内容  
+2. 找到 类为 table_row的元素里的子孙元素a标签，取得这些a标签的href属性， 列出一个列表，在界面里展示，  
+3、 列表还有个操作按钮-查看，点击后调整href上的链接  
+请完成最小mvp供我验证，写好注释
 
