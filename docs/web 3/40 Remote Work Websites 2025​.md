@@ -192,3 +192,4 @@ D:\items\create_cursor_account
 D:\items\create_cursor_account\create_cursor_account.py
 
 既然脚本的设计​​默认包含数据库创建和账号存储功能​​，那么告诉我具体操作才能正确运行脚本？
+
