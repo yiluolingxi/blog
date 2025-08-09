@@ -191,4 +191,4 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoieG5uYnBpNjJ2bGlAeWlsYW4udWs
 D:\items\create_cursor_account
 D:\items\create_cursor_account\create_cursor_account.py
 
-**eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiZ3J4cDZiemUwaDlAeWlsYW4udWsiLCJhZGRyZXNzX2lkIjo2MzF9.SGuq0rYT5oyb0p8WkDYTQ5kJtQH-3Pv57cigBO42uq0**
+既然脚本的设计​​默认包含数据库创建和账号存储功能​​，那么告诉我具体操作才能正确运行脚本？
