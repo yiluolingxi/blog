@@ -198,3 +198,12 @@ D:\items\create_cursor_account\create_cursor_account.py
 
 
 python -m job_scraper.main
+
+字段|company_name|job_title 
+内容|
+
+post_date
+
+| 字段  | company_name | job_title | post_date |
+| --- | ------------ | --------- | --------- |
+| 内容  | EventMobi    |           |           |
