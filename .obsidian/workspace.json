@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "remote plan"
             }
-          },
-          {
-            "id": "473d7c3b69b5921f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/web 3/git 命令行.md",
+                "file": "docs/web 3/remote plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git 命令行 的大纲"
+              "title": "Outline of remote plan"
             }
           }
         ],
@@ -205,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "473d7c3b69b5921f",
+  "active": "e2ccd8025a99fa50",
   "lastOpenFiles": [
     "docs/web 3/40 Remote Work Websites 2025​.md",
     "docs/web 3/remote plan.md",
