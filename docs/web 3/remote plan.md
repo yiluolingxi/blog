@@ -1819,7 +1819,7 @@ GraphQL 作为 REST 的替代方案，在 2025 年的企业级开发中也有一
 |                |                                                                                |           |                                                        |                                                                                                                                                                                                                                                                                               |                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                     |               | Development Practice: 响应式设计; 性能优化; 可扩展性改进                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                    |
 你是一位有几十年经验的信息分类专家，现在把我提供给你的内容按照下面的字段提取有关信息后进行分类归纳：
 - 字段："company_name", "job_title", "post_date", "salary_range", 
-                   "benefits", "location", "experience_req", "education_req", 
+                   "benefits", "location", "experience_req", "education_req","must_ have" ,"nice_to_have"
                    "skills", "job_description", "job_url"
 - skills字段里的内容要求按下面的子集进行分类归纳：
 Programming Language:
@@ -1832,6 +1832,8 @@ Development Practice:
 Programming Language: JavaScript/TypeScript; （注意这里要换行）
 Framework/Library: React; （这里空一格，再写后面的内容）Material UI/Ant Design; 
 - 需要注意，React Query可能属于框架或工具，但通常React Query是数据获取库，属于Tool/Technology。Capacitor是移动开发工具，Vite/Webpack是构建工具，GitHub Copilot等是AI辅助工具，Docker、AWS是云服务和容器化，CI/CD是持续集成/交付工具，分别要在（）里进行备注，比如：Vite/Webpack（构建工具）
+- "must_ have"字段，重点找"Required""Must know"后的技术词
+- "nice_to_have"字段，重点找"Preferred""Plus"后的内容
 - 归纳后，对长文本字段，比如experience_req、job_description、experience_req里的内容要进行合理断句，用分号/逗号分隔关键信息，避免单行长段落；
 - 归纳后的内容用中文输出，除了专业技术词汇保持英文，其它内容用中文输出
 - 同一字段里的表格要“合并内容”

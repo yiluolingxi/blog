@@ -210,6 +210,12 @@ post_date
 |     |              |           |           |     |
 
 
-Tool/Technology: React Query; Capacitor; Vite/Webpack; GitHub Copilot/Augment/Claude（LLM工                             具）; Jest; React Testing Library;
-
-文本中提到“React Query, Capacitor, Vite/Webpack, GitHub Copilot, Augment, Claude, LLM-based assistants, Docker, AWS, CI/CD pipelines (GitHub Actions等)”。需要注意，React Query可能属于框架或工具，但通常React Query是数据获取库，属于Tool/Technology。Capacitor是移动开发工具，Vite/Webpack是构建工具，GitHub Copilot等是AI辅助工具，Docker、AWS是云服务和容器化，CI/CD是持续集成/交付工具。
+- Remotive.io
+    
+- WeWorkRemotely
+    
+- RemoteOK
+    
+- Himalayas.app
+    
+- Dynamite Jobs
