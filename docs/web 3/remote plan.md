@@ -1847,3 +1847,74 @@ Framework/Library: React; （这里空一格，再写后面的内容）Material 
 - 使用 sequentialthinking  工具来规划所有的步骤，思考和分支.
 - 思考轮数不低于5轮，且需要有发散脑暴意识，需要有思考分支.
 - 每一轮需要根据查询的信息结果，反思自己的决策是否正确.
+
+
+
+常见的技术栈通常按应用领域划分，以下是各领域常见的技术栈分类列举：
+
+### 1. 前端技术栈
+
+- **基础技术**：HTML5、CSS3、JavaScript（ES6+）
+- **框架 / 库**：React、Vue.js（Vue 2/Vue 3）、Angular、Svelte、jQuery
+- **TypeScript 相关**：TypeScript（与前端框架结合使用）
+- **构建 / 工程化工具**：Webpack、Vite、Rollup、Babel、ESLint、Prettier
+- **UI 组件库**：Ant Design、Element UI/Plus、Vuetify、Material-UI、Tailwind CSS
+- **跨端相关**：Electron（桌面端）、Taro（多端适配）
+
+### 2. 后端技术栈
+
+#### （按语言生态划分）
+
+- **Java 生态**：  
+    框架：Spring Boot、Spring Cloud（微服务）、Spring MVC、MyBatis、Hibernate  
+    中间件：RabbitMQ、RocketMQ、Kafka（消息队列）、Elasticsearch（搜索引擎）
+- **Python 生态**：  
+    框架：Django、Flask、FastAPI、Tornado  
+    数据处理：Pandas、NumPy（常结合数据场景）
+- **Node.js 生态**：  
+    框架：Express、Koa.js、NestJS
+- **Go 生态**：  
+    框架：Gin、Beego、Echo
+- **PHP 生态**：  
+    框架：Laravel、ThinkPHP、Yii
+- **.NET 生态**：  
+    框架：[ASP.NET](https://asp.net/) Core
+
+### 3. 数据库技术栈
+
+- **关系型数据库**：MySQL、PostgreSQL、Oracle、SQL Server、MariaDB
+- **非关系型数据库（NoSQL）**：  
+    文档型：MongoDB  
+    键值型：Redis、Memcached  
+    列存型：HBase、ClickHouse  
+    图数据库：Neo4j
+- **数据库工具**：Navicat、DBeaver、Redis Desktop Manager
+
+### 4. 移动端技术栈
+
+- **原生开发**：  
+    iOS：Swift、Objective-C  
+    Android：Kotlin、Java
+- **跨平台开发**：  
+    Flutter（Dart 语言）、React Native（JavaScript/TypeScript）、uni-app（Vue）、Ionic
+
+### 5. 数据 / 大数据技术栈
+
+- **大数据处理**：Hadoop（HDFS/MapReduce）、Spark、Flink、Storm
+- **数据仓库**：Hive、ClickHouse、Greenplum、Snowflake
+- **数据可视化**：Tableau、Power BI、ECharts、D3.js
+- **机器学习 / AI**：  
+    框架：TensorFlow、PyTorch、Scikit-learn  
+    语言：Python（主导）、R
+
+### 6. DevOps / 运维技术栈
+
+- **容器化**：Docker、Kubernetes（K8s）
+- **CI/CD 工具**：Jenkins、GitLab CI、GitHub Actions、Jenkins Pipeline
+- **监控 / 日志**：Prometheus、Grafana、ELK Stack（Elasticsearch+Logstash+Kibana）
+- **版本控制**：Git（GitHub、GitLab、Gitee）
+- **服务器 / 云服务**：Linux（CentOS/Ubuntu）、AWS、阿里云、腾讯云
+
+  
+
+这些是各领域中应用较广泛的技术栈，实际场景中常根据项目需求组合使用（比如 “React+Node.js+MySQL+Docker” 就是典型的全栈 + 部署组合）。
