@@ -1959,3 +1959,5 @@ Framework/Library: React; （这里空一格，再写后面的内容）Material 
 - **特殊格式合并**：`JavaScript(ES6)` 和 `JavaScript(ES6+)` 会被合并为 `javascript`
 - **支持中文项**：如 `设计系统`、`测试自动化` 等中文项也会被正确统计
 - **输出格式优化**：按出现频率从高到低排序
+
+What questions will the interviewer ask during the interview for the International Remote Front End engineer position? What should you prepare as an interviewer? Please give me some interview resources, be it websites or videos etc.
