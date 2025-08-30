@@ -1961,3 +1961,12 @@ Framework/Library: React; （这里空一格，再写后面的内容）Material 
 - **输出格式优化**：按出现频率从高到低排序
 
 What questions will the interviewer ask during the interview for the International Remote Front End engineer position? What should you prepare as an interviewer? Please give me some interview resources, be it websites or videos etc.
+
+-------------
+✅ Quick Checklist Before Applying
+- [ ] ✅ Solid React + TypeScript + Next.js skills
+- [ ] ✅ Portfolio website with at least 3 strong projects
+- [ ] ✅ Resume & LinkedIn ready in English
+- [ ] ✅ Comfortable with Git, CI/CD, testing
+- [ ] ✅ Remote-friendly mindset (async, tools, communication)
+- [ ] ✅ Prepared for coding + behavioral interviews
