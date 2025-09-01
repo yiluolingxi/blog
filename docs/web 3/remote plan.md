@@ -2038,3 +2038,16 @@ What questions will the interviewer ask during the interview for the Internation
 	- **流程规范**：如代码审查（Code Review）规范、Git分支管理策略、CI/CD流程优化等 。
 	- **技术标准**：如统一的代码风格规范、性能优化清单、可访问性（a11y）标准等 。
 	- **协作模式**：如与设计师、后端工程师、测试工程师的高效协作模式，例如推广“设计系统”作为协作语言。
+
+
+
+
+多列表渲染（虚拟瀑布流）
+与虚拟列表原理一致，通过只渲染当前可视区域(visible viewport)的视图，可以极大程度提升多列表渲染时的性能。
+
+v3.6.10 及以下不支持。
+
+示例
+在 React Like 框架中我们可以直接从 @tarojs/components-advanced 引入虚拟瀑布流（VirtualWaterfall）组件：
+import { VirtualWaterfall } from `@tarojs/components-advanced`
+一个最简单的长列表组件会像这样，VirtualWaterfall 的 6 个属性都是必填项：
