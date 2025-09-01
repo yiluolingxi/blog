@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "remote plan"
             }
+          },
+          {
+            "id": "485ef8748a040611",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33356f13c7a731e6",
+  "active": "485ef8748a040611",
   "lastOpenFiles": [
     "docs/assets/Pasted image 20250830180956.png",
     "docs/assets/Pasted image 20250830180926.png",
