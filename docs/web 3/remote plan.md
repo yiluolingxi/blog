@@ -2009,6 +2009,10 @@ What questions will the interviewer ask during the interview for the Internation
 - [ ] ✅ Remote-friendly mindset (async, tools, communication)
 - [ ] ✅ Prepared for coding + behavioral interviews
 
+在 6 个月内，通过每天 10 小时学习，掌握 React、TypeScript 和 Next.js，并能用英语进行技术讨论。
+在 6 个月内，通过英语项目实践，达到能用英语进行技术讨论的能力。
+
+
 
 请写一份该项目开发报告，实现以下两大目标：
 - 提供清晰的技术栈、架构图、环境搭建指南和常见问题解答，可以快速了解项目背景和技术细节，缩短学习曲线
