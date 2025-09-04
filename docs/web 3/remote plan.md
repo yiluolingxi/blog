@@ -2009,10 +2009,30 @@ What questions will the interviewer ask during the interview for the Internation
 - [ ] ✅ Remote-friendly mindset (async, tools, communication)
 - [ ] ✅ Prepared for coding + behavioral interviews
 
-在 6 个月内，通过每天 10 小时学习，掌握 React、TypeScript 和 Next.js，并能用英语进行技术讨论。
-在 6 个月内，通过英语项目实践，达到能用英语进行技术讨论的能力。
+#### 具体目标（Specific）
+在 6 个月内，通过每天 8 小时学习，掌握 React、TypeScript、Next.js，并能用英语进行技术讨论和项目实践。
+#### 可衡量（Measurable）
+- **衡量标准**：
+    - 完成 React、TypeScript、Next.js 的学习（通过项目实践）
+    - 能用英语进行技术讨论（如 GitHub Issues、Stack Overflow、技术社区）
+    - 完成三个完整的前端项目（如个人博客、电商网站、金融网站）待实践验证
+#### 可实现（Achievable）
+- **时间**：6 个月，4个月后进行一次全面审查，每个月经行一次查缺补漏
+- **每天 10 小时**，合理分配时间
+#### 相关（Relevant）
+- **目标**：应聘国际远程前端岗位，提升英语口语和项目能力
+#### 有时间限制（Time-bound）
+- **时间**：6 个月
 
-
+### **第一阶段**
+#### 目标（ **1-2 个月**）
+- 学习 HTML/CSS/JavaScript、TypeScript、React 的核心基础（不求全面，但求核心用法能用英文阐述）
+- 提升英语听力和口语能力
+#### 衡量标准
+- 完成 HTML/CSS/JavaScript 学习（通过英文项目实践）
+- 能用英语进行基础技术讨论（如 GitHub Issues）
+#### 时间
+- 2 个月
 
 请写一份该项目开发报告，实现以下两大目标：
 - 提供清晰的技术栈、架构图、环境搭建指南和常见问题解答，可以快速了解项目背景和技术细节，缩短学习曲线
