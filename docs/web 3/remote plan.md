@@ -2023,9 +2023,8 @@ What questions will the interviewer ask during the interview for the Internation
 - **目标**：应聘国际远程前端岗位，提升英语口语和项目能力
 #### 有时间限制（Time-bound）
 - **时间**：6 个月
-
-### **第一阶段**
-#### 目标（ **1-2 个月**）
+### **第一阶段**（ 2 个月）
+#### 目标
 - 学习 HTML/CSS/JavaScript、TypeScript、React 的核心基础（不求全面，但求核心用法能用英文阐述）
 - 提升英语听力和口语能力
 #### 衡量标准
@@ -2033,6 +2032,39 @@ What questions will the interviewer ask during the interview for the Internation
 - 能用英语进行基础技术讨论（如 GitHub Issues）
 #### 时间
 - 2 个月
+#### 资源
+- [HTML/CSS/JavaScript 学习资源](https://www.w3schools.com/html/)
+- [TypeScript 学习资源](https://www.typescriptlang.org/docs/)
+
+### **第二阶段：技术进阶**（ 2 个月）
+#### 目标
+- 学习 React、Next.js、TypeScript
+- 提升英语技术讨论能力
+#### 衡量标准
+- 完成 React、Next.js 项目实践
+- 能用英语进行技术讨论（如 GitHub Issues、Stack Overflow）
+#### 时间
+- 2 个月
+#### 资源
+- [React 官方文档](https://react.dev/learn)
+- [Next.js 官方文档](https://nextjs.org/learn)
+- [Stack Overflow](https://stackoverflow.com/)
+
+### **第三阶段：项目实践与英语提升**（ 2 个月）
+
+#### 目标
+- 完成一个完整的前端项目
+- 提升英语技术讨论和写作能力
+#### 衡量标准
+- 完成一个完整的前端项目（如博客、电商网站、金融网站）
+- 能用英语进行技术写作（如技术博客、GitHub 文档）
+#### 时间
+- 2个月
+#### 资源
+- [GitHub](https://github.com/)
+- [Medium](https://medium.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+
 
 请写一份该项目开发报告，实现以下两大目标：
 - 提供清晰的技术栈、架构图、环境搭建指南和常见问题解答，可以快速了解项目背景和技术细节，缩短学习曲线
