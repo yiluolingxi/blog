@@ -2025,10 +2025,10 @@ What questions will the interviewer ask during the interview for the Internation
 - **时间**：6 个月
 ### **第一阶段**（ 2 个月）
 #### 目标
-- 学习 HTML/CSS/JavaScript、TypeScript、React 的核心基础（不求全面，但求核心用法能用英文阐述）
+- 学习 HTML/CSS/JavaScript（ES6+)、TypeScript、React 的核心基础（不求全面，但求核心用法能用英文阐述）
 - 提升英语听力和口语能力
 #### 衡量标准
-- 完成 HTML/CSS/JavaScript 学习（通过英文项目实践）
+- 完成 HTML/CSS/JavaScript（ES6+)学习（通过英文项目实践）
 - 能用英语进行基础技术讨论（如 GitHub Issues）
 #### 时间
 - 2 个月
