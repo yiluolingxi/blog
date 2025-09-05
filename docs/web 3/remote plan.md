@@ -2130,3 +2130,4 @@ What questions will the interviewer ask during the interview for the Internation
 
 
 
+![](Pasted%20image%2020250905103853.png)
