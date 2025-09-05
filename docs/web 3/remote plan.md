@@ -2131,3 +2131,5 @@ What questions will the interviewer ask during the interview for the Internation
 
 
 ![](Pasted%20image%2020250905103853.png)
+
+react , javascript , typescript,  rest , aws,  ci/cd ,html,  css , design system,  redux,  next.js,  git,  node.js , grathql,  performance,  build tool (Webpack), jest
