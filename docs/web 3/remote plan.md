@@ -2133,3 +2133,6 @@ What questions will the interviewer ask during the interview for the Internation
 ![](Pasted%20image%2020250905103853.png)
 
 react , javascript , typescript,  rest , aws,  ci/cd ,html,  css , design system,  redux,  next.js,  git,  node.js , grathql,  performance,  build tool (Webpack), jest
+
+html,css,javascript(ES6+),typescript,react,redux,next.js,rest,node.js,git,jest,Webpack,CI/CD,tailwind
+我目前英语水平为CEFR A2 ，想要熟练运用上面这些技术栈，并且能够用英文流畅地进行技术讨论、听懂技术分享和视频教程、在会议上清晰地表达自己的观点和问题。需要多长时间？
