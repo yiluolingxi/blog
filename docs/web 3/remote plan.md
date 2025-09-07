@@ -2136,3 +2136,7 @@ react , javascript , typescript,  rest , aws,  ci/cd ,html,  css , design system
 
 html,css,javascript(ES6+),typescript,react,redux,next.js,rest,node.js,git,jest,Webpack,CI/CD,tailwind
 我目前英语水平为CEFR A2 ，想要熟练运用上面这些技术栈，并且能够用英文流畅地进行技术讨论、听懂技术分享和视频教程、在会议上清晰地表达自己的观点和问题。需要多长时间？
+
+HTML, CSS, JavaScript (ES6+), TypeScript, React, Redux, Next.js, REST, Node.js, Git, Jest, Webpack, CI/CD, Tailwind CSS. 
+- My current English proficiency is at the CEFR A2 level. My objective is to achieve mastery of the listed technology stacks and to develop the English fluency necessary to: engage in technical discussions, comprehend technical documentation and video tutorials, articulate my viewpoints and pose questions clearly in meetings, successfully pass a front-end developer interview for a US-based company, and ultimately secure a job offer. I am able to dedicate 10 hours per day to this goal. What is the most effective path to get there?
+- I need a detailed plan, and plans should conform to the science of human memory (e.g. , Hermann Ebbinghaus's forgetting curve, repetition at intervals, combination of focused and divergent modes) and follow the SMART principle (specific, measurable, attainable, relevant, time-bound)
