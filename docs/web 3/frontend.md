@@ -1,3 +1,10 @@
+✅ Quick Checklist Before Applying
+- [ ] ✅ Solid React + TypeScript + Next.js skills, Master frontend stack HTML, CSS, JS/TS, React, Redux, Next.js, Node basics, REST, Git, CI/CD, Jest, Webpack, Tailwind
+- [ ] ✅ Portfolio website with at least 3 strong projects
+- [ ] ✅ Resume & LinkedIn ready in English
+- [ ] ✅ Comfortable with Git, CI/CD, testing
+- [ ] ✅ Remote-friendly mindset (async, tools, communication)
+- [ ] ✅ Prepared for coding + behavioral interviews
 # 🚀 Mastery Roadmap (Tech + English)
 
 ### Phase 1: Foundations (Months 1–2)
