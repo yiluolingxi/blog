@@ -9,3 +9,35 @@
 | **11:08–END**   | Structural vs Nominal Typing<br>结构类型 vs 名义类型      | TypeScript uses structural typing (duck typing) based on shape, not name<br>TypeScript 使用基于形状的结构类型（鸭子类型），而不是名称 | Rely on the shape (properties and methods) of objects for type compatibility, not their explicit type name or declaration<br>依赖对象的形状（属性和方法）进行类型兼容性检查，而不是它们显式的类型名称或声明                    | `class Service { config: string; }`<br>`const obj = { config: 'test' };`<br>`const s: Service = obj; // OK in TS (Structural)`                         | **TypeScript basically implements structural typing, which means if two objects have the same properties, then they are the same thing for TypeScript. But if you go to languages like Java or C#, they implement mostly nominal typing. That means for something to be of a certain type it has to really match the same signature and be instances of the same class; it doesn't matter if they have the same properties if they were not instantiated by a class with the same name, it won't work. So the cool thing in TypeScript is that it gives you certain flexibility because you can always combine objects or interchange them if they satisfy the same properties. As always with JavaScript, we have more freedom than with strictly typed languages like the ones mentioned.**<br>**TypeScript 基本上实现了结构类型，这意味着如果两个对象具有相同的属性，那么对 TypeScript 来说它们就是同一个东西。但如果你使用像 Java 或 C# 这样的语言，它们主要实现名义类型。这意味着某物要属于某种类型，它必须真正匹配相同的签名并且是同一类的实例；如果它们不是由具有相同名称的类实例化的，那么它们是否具有相同的属性并不重要，它不会工作。所以 TypeScript 很酷的一点是它给了你一定的灵活性，因为如果对象满足相同的属性，你总是可以组合对象或互换它们。与往常一样，与上述严格类型语言相比，我们在 JavaScript 中拥有更多的自由。**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 https://www.youtube.com/watch?v=AGqbLgEQGaA&list=PLyS0ae3XTiIHuaqjX9sWHkBaF8r_bIysK
+
+```bash
+python main_tkinter.py
+```
+
+1. 运行脚本，会出现一个图形界面：
+    
+    - 在文本框中输入YouTube视频URL列表（每行一个URL）
+        
+    - 选择保存路径（默认为E:\interview）
+        
+    - 点击"开始处理"按钮
+        
+2. 脚本将自动执行以下操作：
+    
+    - 打开每个YouTube视频
+        
+    - 点击Relingo的CC图标
+        
+    - 点击"导出字幕"选项
+        
+    - 在模态框中选择选项并点击"导出"
+        
+    - 等待新标签页打开并加载完成
+        
+    - 自动触发打印功能
+        
+    - 使用pyautogui点击打印对话框中的打印按钮
+        
+    - 处理另存为对话框，修改文件名并保存
+        
+    - 关闭新标签页并返回主页面
