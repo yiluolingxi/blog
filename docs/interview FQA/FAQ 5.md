@@ -11,7 +11,7 @@
 https://www.youtube.com/watch?v=AGqbLgEQGaA&list=PLyS0ae3XTiIHuaqjX9sWHkBaF8r_bIysK
 修改后要输出完整的 Relingo 字幕导出工具代码
 ```bash
-python main_tkinter.py
+python relingo_exporter.py
 ```
 
 1. 运行脚本，会出现一个图形界面：
