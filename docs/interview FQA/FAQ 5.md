@@ -13,7 +13,15 @@ https://www.youtube.com/watch?v=AGqbLgEQGaA&list=PLyS0ae3XTiIHuaqjX9sWHkBaF8r_bI
 ```bash
 python relingo_exporter.py
 ```
+您遇到的错误 `'chrome.exe' 不是内部或外部命令...` 是因为系统无法在当前目录或环境变量 `PATH` 中找到 `chrome.exe` 程序。
 
+**问题根源：** 终端不知道 `chrome.exe` 的安装位置。
+
+**解决方案：** 您需要使用 `chrome.exe` 的**完整路径**来执行命令。请尝试以下命令：
+
+```cmd
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\ChromeDebugProfile"
+```
 1. 运行脚本，会出现一个图形界面：
     
     - 在文本框中输入YouTube视频URL列表（每行一个URL）
